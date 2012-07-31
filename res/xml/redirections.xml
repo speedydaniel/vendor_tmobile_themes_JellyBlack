@@ -85,6 +85,7 @@
         android:name="jp.co.bii.android.app.dskvzr"
         android:resource="@xml/jp_co_bii_android_app_dskvzr"
         android:minSdkVersion="14" />
+
 	<package-redirections
         android:name="com.google.android.apps.googlevoice"
         android:resource="@xml/com_google_android_apps_googlevoice"

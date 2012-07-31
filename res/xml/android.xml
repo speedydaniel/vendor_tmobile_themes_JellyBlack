@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
+<item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
 	<item name="drawable/activity_picker_bg_activated">@drawable/frameworks_res_activity_picker_bg_activated</item>
 	<item name="drawable/activity_picker_bg_focused">@drawable/frameworks_res_activity_picker_bg_focused</item>
 	<item name="drawable/ic_media_route_on_holo_dark">@drawable/frameworks_res_ic_media_route_on_holo_dark</item>
