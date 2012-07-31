@@ -1,4 +1,4 @@
-vendor_tmobile_themes_BlackICS
+vendor_tmobile_themes_JellyBlack
 ==============================
 
 Custom theme by TUN_SD
