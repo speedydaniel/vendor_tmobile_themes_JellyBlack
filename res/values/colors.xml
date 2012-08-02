@@ -23,8 +23,6 @@
     <color name="link_text_holo_dark">#ffaaaaaa</color>
     <color name="link_text_holo_light">#ff222222</color>
 	<color name="lockscreen_clock_background">#cc000000</color>
-    <color name="highlighted_text_dark">#99aaaaaa</color>
-    <color name="highlighted_text_light">#99aaaaaa</color>
     <color name="link_text_dark">#ffaaaaaa</color>
     <color name="link_text_light">#ff666666</color>
     <color name="group_button_dialog_pressed_holo_dark">#46ffffff</color>
