@@ -24,9 +24,9 @@
 	<item name="drawable/switch_thumb_holo_light">@drawable/frameworks_res_switch_thumb_holo_light</item>
 	<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
 	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
-    <item name="color/holo_blue_light">@color/TUN_maincolor</item>
-    <item name="color/holo_blue_dark">@color/TUN_maincolor_dark</item>
-    <item name="color/holo_blue_bright">@color/TUN_maincolor_bright</item>
+    <item name="color/holo_blue_light">@color/holo_blue_light</item>
+    <item name="color/holo_blue_dark">@color/holo_blue_dark</item>
+    <item name="color/holo_blue_bright">@color/holo_blue_light</item>
     <item name="color/holo_green_light">@color/holo_green_light</item>
     <item name="color/holo_green_dark">@color/holo_green_dark</item>
     <item name="color/holo_red_light">@color/holo_red_light</item>    
@@ -1267,8 +1267,8 @@
 	<item name="drawable/weather_8">@drawable/com_android_systemui_weather_8</item>
 	<item name="drawable/weather_9">@drawable/com_android_systemui_weather_9</item>
 	<item name="drawable/weather_na">@drawable/com_android_systemui_weather_na</item>
-    <item name="color/highlighted_text_holo_dark">@color/TUN_maincolor</item>
-    <item name="color/highlighted_text_holo_light">@color/TUN_maincolor</item>
+    <item name="color/highlighted_text_holo_dark">@color/highlighted_text_dark</item>
+    <item name="color/highlighted_text_holo_light">@color/highlighted_text_light</item>
 	<item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_progress_horizontal_holo_dark</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_progress_horizontal_holo_light</item>
 	<item name="drawable/progress_indeterminate_horizontal_holo">@drawable/frameworks_res_progress_indeterminate_horizontal_holo</item>
