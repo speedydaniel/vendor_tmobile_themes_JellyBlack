@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/system_bar_background">@drawable/system_bar_background</item>
+	<item name="drawable/notification_panel_bg">@drawable/notification_panel_bg</item>
 	<item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
 	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
     <item name="drawable/notification_row_bg">@drawable/com_android_systemui_notification_row_bg</item>
