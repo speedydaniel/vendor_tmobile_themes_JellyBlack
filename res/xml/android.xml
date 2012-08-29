@@ -26,7 +26,7 @@
 	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
     <item name="color/holo_blue_light">@color/holo_blue_light</item>
     <item name="color/holo_blue_dark">@color/holo_blue_dark</item>
-    <item name="color/holo_blue_bright">@color/holo_blue_light</item>
+    <item name="color/holo_blue_bright">@color/holo_blue_bright</item>
     <item name="color/holo_green_light">@color/holo_green_light</item>
     <item name="color/holo_green_dark">@color/holo_green_dark</item>
     <item name="color/holo_red_light">@color/holo_red_light</item>    
