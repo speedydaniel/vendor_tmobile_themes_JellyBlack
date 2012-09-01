@@ -16,10 +16,13 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/line_divider_arrow">@drawable/line_divider_arrow</item>
-    <item name="mipmap/ic_launcher_smsmms">@mipmap/com_android_mms_ic_launcher_smsmms</item>
+	<item name="drawable/textfield_focused_holo_light">@drawable/com_android_mms_textfield_focused_holo_light</item>
+	<item name="drawable/textfield_multiline_activated_holo_light">@drawable/com_android_mms_textfield_multiline_activated_holo_light</item>
+	<item name="drawable/textfield_multiline_focused_holo_light">@drawable/com_android_mms_textfield_multiline_focused_holo_light</item>
+	<item name="drawable/textfield_activated_holo_light">@drawable/com_android_mms_textfield_activated_holo_light</item>
+	<item name="drawable/line_divider_arrow">@drawable/line_divider_arrow</item>
+	<item name="mipmap/ic_launcher_smsmms">@mipmap/com_android_mms_ic_launcher_smsmms</item>
 	<item name="drawable/stat_notify_sms">@drawable/mms_motion_icon</item>
 	<item name="drawable/list_selected_holo_light">@drawable/com_android_mms_list_selected_holo_light</item>
 	<item name="drawable/list_pressed_holo_light">@drawable/com_android_mms_list_pressed_holo_light</item>
-	
 </resource-redirections>
