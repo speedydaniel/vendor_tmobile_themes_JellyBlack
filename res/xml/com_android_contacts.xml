@@ -31,7 +31,29 @@
     <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
     <item name="color/quickcontact_tab_indicator">@color/people_app_theme_color</item>
     <item name="color/call_log_voicemail_highlight_color">@color/holo_blue_light</item>
-    <item name="color/people_app_theme_color">@color/people_app_theme_color</item>
+	<item name="color/people_app_theme_color">@color/people_app_theme_color</item>
 	<item name="drawable/background_dial_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
 	
+	<item name="color/call_log_primary_text_color">@color/call_log_primary_text_color</item>
+	<item name="color/call_log_primary_background_color">@color/call_log_primary_background_color</item>
+	<item name="color/call_log_secondary_text_color">@color/call_log_secondary_text_color</item>
+	<item name="color/call_log_secondary_background_color">@color/call_log_secondary_background_color</item>
+	<item name="color/call_log_header_color">@color/call_log_header_color</item>
+	<item name="color/call_log_voicemail_status_background_color">@color/call_log_voicemail_status_background_color</item>
+	<item name="color/call_log_voicemail_status_text_color">@color/call_log_voicemail_status_text_color</item>
+	<item name="color/call_log_voicemail_status_action_text_color">@color/call_log_voicemail_status_action_text_color</item>
+	<item name="color/call_detail_background">@color/call_detail_background</item>
+	<item name="color/call_detail_separator">@android:color/call_detail_separator</item>
+	<item name="color/call_detail_photo_bg">@color/call_detail_photo_bg</item>
+	<item name="color/call_log_divider">@color/call_log_divider</item>
+	<item name="color/detail_tab_carousel_tab_label_Background_color">@color/detail_tab_carousel_tab_label_Background_color</item>
+	<item name="color/white_text">@color/white_text</item>
+	<item name="color/black_text">@color/black_text</item>
+	<item name="color/contact_tile_name_text">@color/contact_tile_name_text</item>
+	<item name="color/dialpad_switch_bg">@color/dialpad_switch_bg</item>
+	<item name="color/account_container">@color/account_container</item>
+	<item name="color/photo_backdrop">@color/photo_backdrop</item>
+	<item name="color/photo_container">@color/photo_container</item>
+	<item name="color/social_widget_bg">@color/social_widget_bg</item>
+	<item name="color/contact_detail_fragment">@color/contact_detail_fragment</item>
 </resource-redirections>
