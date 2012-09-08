@@ -35,6 +35,11 @@
 	<item name="color/people_app_theme_color">@color/people_app_theme_color</item>
 	<item name="drawable/background_dial_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
 	<!--colors-->
+<item name="color/people_contact_tile_status_color">@color/people_contact_tile_status_color</item>
+<item name="color/contact_count_text_color">@color/contact_count_text_color</item>
+	<item name="color/dialtacts_secondary_text_color">@color/dialtacts_secondary_text_color</item>
+	<item name="color/section_header_text_color">@color/section_header_text_color</item>
+	<item name="color/detail_update_tab_text_color">@color/detail_update_tab_text_color</item>
 	<item name="color/call_log_primary_text_color">@color/call_log_primary_text_color</item>
 	<item name="color/call_log_primary_background_color">@color/call_log_primary_background_color</item>
 	<item name="color/call_log_secondary_text_color">@color/call_log_secondary_text_color</item>
