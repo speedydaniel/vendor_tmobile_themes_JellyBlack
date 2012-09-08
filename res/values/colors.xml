@@ -58,4 +58,23 @@
     <color name="pano_progress_empty">#ff2e2e2e</color>
     <color name="pano_progress_done">#ff333333</color>
     <color name="pano_progress_indication_fast">#ffff2222</color>
+	
+	<color name="compose_message_edit_text">#ffffffff</color>
+   	<color name="actionbar_text">#ffefefef</color>
+ 	<color name="delete_thread_dialog">#ffefefef</color>
+ 	<color name="delivery_report_header">#222222</color>
+ 	<color name="delivery_report_recipient">#ffffffff</color>
+ 	<color name="delivery_report_status">#ffffffff</color>
+ 	<color name="delivery_report_date">#ffcfcfcf</color>
+ 	<color name="button_text">#ffffffff</color>
+ 	<color name="message_recieved">@android:color/holo_blue_light</color>
+ 	<color name="message_sent">#ffffffff</color>
+ 	<color name="widget_unread_text">#CFCFCF</color>
+ 	<color name="widget_loading">#ffffffff</color>
+
+ 	<color name="background">#000000</color>
+ 	<color name="darkgray_backgrounds">#888888</color>
+ 	<color name="dividers">#202020</color>
+ 	<color name="transparent">#00000000</color>
+	
 </resources>
