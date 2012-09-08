@@ -100,4 +100,5 @@
     <color name="photo_container">#4cffffff</color>
     <color name="social_widget_bg">#00000000</color>
     <color name="contact_detail_fragment">#ffffff</color>
+	<color name="snippet_text_color">#ffffff</color>
 </resources>

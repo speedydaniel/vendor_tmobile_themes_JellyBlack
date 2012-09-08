@@ -33,7 +33,7 @@
     <item name="color/call_log_voicemail_highlight_color">@color/holo_blue_light</item>
 	<item name="color/people_app_theme_color">@color/people_app_theme_color</item>
 	<item name="drawable/background_dial_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
-	
+	<!--colors-->
 	<item name="color/call_log_primary_text_color">@color/call_log_primary_text_color</item>
 	<item name="color/call_log_primary_background_color">@color/call_log_primary_background_color</item>
 	<item name="color/call_log_secondary_text_color">@color/call_log_secondary_text_color</item>
@@ -56,4 +56,22 @@
 	<item name="color/photo_container">@color/photo_container</item>
 	<item name="color/social_widget_bg">@color/social_widget_bg</item>
 	<item name="color/contact_detail_fragment">@color/contact_detail_fragment</item>
+	<item name="color/snippet_text_color">@color/snippet_text_color</item>
+	<!--styles-->
+    <item name="style/Theme.QuickContact">@style/Theme.QuickContact</item>
+    <item name="style/ListViewStyle">@style/ListViewStyle</item>	
+    <item name="style/ContactsActionBarDropDownStyle">@style/ContactsActionBarDropDownStyle</item>	
+    <item name="style/ContactsActionBarStyle">@style/ContactsActionBarStyle</item>	
+    <item name="style/ContactsActionBarTabView">@style/ContactsActionBarTabView</item>	
+    <item name="style/ContactsActionBarTheme">@style/ContactsActionBarTheme</item>	
+    <item name="style/BackgroundOnlyTheme">@style/BackgroundOnlyTheme</item>	
+    <item name="style/DetailActivityTheme">@style/DetailActivityTheme</item>	
+    <item name="style/EditorActivityTheme">@style/EditorActivityTheme</item>	
+    <item name="style/ListViewDropdownStyle">@style/ListViewDropdownStyle</item>	
+    <item name="style/ContactsPreferencesTheme">@style/ContactsPreferencesTheme</item>	
+    <item name="style/ContactListFilterTheme">@style/ContactListFilterTheme</item>	
+    <item name="style/NonPhoneDialogTheme">@style/NonPhoneDialogTheme</item>	
+    <item name="style/ConfirmAddDetailDialogTheme">@style/ConfirmAddDetailDialogTheme</item>	
+    <item name="style/ContactEditorAccountsChangedActivityTheme">@style/ContactEditorAccountsChangedActivityTheme</item>	
+    <item name="style/Theme.PhotoSelector">@style/Theme.PhotoSelector</item>	
 </resource-redirections>
