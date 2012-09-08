@@ -26,21 +26,21 @@
 	<item name="drawable/list_selected_holo_light">@drawable/com_android_mms_list_selected_holo_light</item>
 	<item name="drawable/list_pressed_holo_light">@drawable/com_android_mms_list_pressed_holo_light</item>
 	<item name="color/holo_blue_light">@color/holo_blue_light</item>
-	<item name="color/compose_message_edit_text">@color/</color>
-   	<item name="color/actionbar_text">@color/</color>
- 	<item name="color/delete_thread_dialog">@color/delete_thread_dialog</color>
- 	<item name="color/delivery_report_header">@color/delivery_report_header</color>
- 	<item name="color/delivery_report_recipient">@color/delivery_report_recipient</color>
- 	<item name="color/delivery_report_status">@color/delivery_report_status</color>
- 	<item name="color/delivery_report_date">@color/delivery_report_date</color>
- 	<item name="color/button_text">@color/button_text</color>
- 	<item name="color/message_recieved">@color/message_recieved</color>
- 	<item name="color/message_sent">@color/message_sent</color>
- 	<item name="color/widget_unread_text">@color/widget_unread_text</color>
- 	<item name="color/widget_loading">@color/widget_loading</color>
+	<item name="color/compose_message_edit_text">@color/</item>
+   	<item name="color/actionbar_text">@color/actionbar_text</item>
+ 	<item name="color/delete_thread_dialog">@color/delete_thread_dialog</item>
+ 	<item name="color/delivery_report_header">@color/delivery_report_header</item>
+ 	<item name="color/delivery_report_recipient">@color/delivery_report_recipient</item>
+ 	<item name="color/delivery_report_status">@color/delivery_report_status</item>
+ 	<item name="color/delivery_report_date">@color/delivery_report_date</item>
+ 	<item name="color/button_text">@color/button_text</item>
+ 	<item name="color/message_recieved">@color/message_recieved</item>
+ 	<item name="color/message_sent">@color/message_sent</item>
+ 	<item name="color/widget_unread_text">@color/widget_unread_text</item>
+ 	<item name="color/widget_loading">@color/widget_loading</item>
 
- 	<item name="color/background">@color/background</color>
- 	<item name="color/darkgray_backgrounds">@color/darkgray_backgrounds</color>
- 	<item name="color/dividers">@color/dividers</color>
- 	<item name="color/transparent">@color/transparent</color>
+ 	<item name="color/background">@color/background</item>
+ 	<item name="color/darkgray_backgrounds">@color/darkgray_backgrounds</item>
+ 	<item name="color/dividers">@color/dividers</item>
+ 	<item name="color/transparent">@color/transparent</item>
 </resource-redirections>
