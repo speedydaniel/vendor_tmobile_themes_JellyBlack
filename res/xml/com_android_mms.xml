@@ -16,6 +16,8 @@
  -->
 
 <resource-redirections>
+	<item name="drawable/attachment_editor_bg">@drawable/com_android_mms_attachment_editor_bg</item>
+	<item name="drawable/header_bg_mms_widget_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
 	<item name="drawable/list_read_holo">@drawable/com_android_mms_list_read_holo</item>
 	<item name="drawable/list_unread_holo">@drawable/com_android_mms_list_unread_holo</item>
 	<item name="drawable/textfield_focused_holo_light">@drawable/com_android_mms_textfield_focused_holo_light</item>
