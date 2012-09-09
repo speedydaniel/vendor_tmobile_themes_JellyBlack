@@ -59,6 +59,9 @@
     <color name="pano_progress_done">#ff333333</color>
     <color name="pano_progress_indication_fast">#ffff2222</color>
 	<!-- mms colors -->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
     <color name="com_android_mms_text_hairline">#ffafafaf</color>
     <color name="com_android_mms_message_count_color">#66cfcfcf</color>
     <color name="com_android_mms_timestamp_color">#bfefefef</color>
