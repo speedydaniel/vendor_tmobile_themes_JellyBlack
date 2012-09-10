@@ -20,4 +20,5 @@
 	<item name="drawable/ic_menu_home">@drawable/com_google_android_apps_plus_ic_menu_home</item>
 	<item name="drawable/ic_share">@drawable/com_google_android_apps_plus_ic_share</item>
 	<item name="drawable/ic_share_large">@drawable/com_google_android_apps_plus_ic_share_large</item>
+	<item name="drawable/header_widget_holo">@drawable/com_google_android_apps_plus_header_widget_holo</item>
 </resource-redirections>

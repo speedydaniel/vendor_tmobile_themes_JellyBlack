@@ -60,6 +60,7 @@
 	<item name="drawable/line_divider_arrow">@drawable/line_divider_arrow</item>
 	<item name="mipmap/ic_launcher_smsmms">@mipmap/com_android_mms_ic_launcher_smsmms</item>
 	<item name="drawable/stat_notify_sms">@drawable/mms_motion_icon</item>
+	<item name="drawable/header_bg_mms_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
 <!-- 	mms colors -->
 	<item name="color/text_hairline">@color/com_android_mms_text_hairline</item>
     <item name="color/message_count_color">@color/com_android_mms_message_count_color</item>
