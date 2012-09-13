@@ -59,4 +59,7 @@
     <color name="pano_progress_done">#ff333333</color>
     <color name="pano_progress_indication_fast">#ffff2222</color>
     <color name="quotedTextColor">#ff77ddff</color>
+	<color name="white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
 </resources>
