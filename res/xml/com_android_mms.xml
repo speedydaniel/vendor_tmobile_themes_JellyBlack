@@ -61,38 +61,4 @@
 	<item name="mipmap/ic_launcher_smsmms">@mipmap/com_android_mms_ic_launcher_smsmms</item>
 	<item name="drawable/stat_notify_sms">@drawable/mms_motion_icon</item>
 	<item name="drawable/header_bg_mms_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
-<!-- 	mms colors -->
-	<item name="color/text_hairline">@color/com_android_mms_text_hairline</item>
-    <item name="color/message_count_color">@color/com_android_mms_message_count_color</item>
-    <item name="color/timestamp_color">@color/com_android_mms_timestamp_color</item>
-    <item name="color/unread_bgcolor">@color/com_android_mms_unread_bgcolor</item>
-    <item name="color/read_bgcolor">@color/com_android_mms_read_bgcolor</item>
-    <item name="color/widget_sender_text_color_read">@color/com_android_mms_widget_sender_text_color_read</item>
-    <item name="color/widget_sender_text_color_unread">@color/com_android_mms_widget_sender_text_color_unread</item>
-    <item name="color/widget_subject_text_color_read">@color/com_android_mms_widget_subject_text_color_read</item>
-    <item name="color/widget_subject_text_color_unread">@color/com_android_mms_widget_subject_text_color_unread</item>
-    <item name="color/action_bar_button_text_color">@color/com_android_mms_action_bar_button_text_color</item>
-    <item name="color/compose_message_edit_text">@color/com_android_mms_compose_message_edit_text</item>
-    <item name="color/actionbar_text">@color/com_android_mms_actionbar_text</item>
-    <item name="color/delete_thread_dialog">@color/com_android_mms_delete_thread_dialog</item>
-    <item name="color/delivery_report_header">@color/com_android_mms_delivery_report_header</item>
-    <item name="color/delivery_report_recipient">@color/com_android_mms_delivery_report_recipient</item>
-    <item name="color/delivery_report_status">@color/com_android_mms_delivery_report_status</item>
-    <item name="color/delivery_report_date">@color/com_android_mms_delivery_report_date</item>
-    <item name="color/button_text">@color/com_android_mms_button_text</item>
-    <item name="color/message_recieved">@color/com_android_mms_message_recieved</item>
-    <item name="color/message_sent">@color/com_android_mms_message_sent</item>
-    <item name="color/widget_unread_text">@color/com_android_mms_widget_unread_text</item>
-    <item name="color/widget_loading">@color/com_android_mms_widget_loading</item>
-    <item name="color/background">@color/com_android_mms_background</item>
-    <item name="color/darkgray_backgrounds">@color/com_android_mms_darkgray_backgrounds</item>
-    <item name="color/dividers">@color/com_android_mms_dividers</item>
-    <item name="color/transparent">@color/com_android_mms_transparent</item>
-	<!-- mms styles -->
-	<item name="style/MmsHoloTheme">@style/MmsHoloTheme</item>
-	<item name="style/WidgetTitle">@style/com_android_mms_WidgetTitle</item>
-	<item name="style/NotificationPrimaryText">@style/com_android_mms_NotificationPrimaryText</item>
-	<item name="style/NotificationSecondaryText">@style/com_android_mms_NotificationSecondaryText</item>
-	<item name="style/NotificationSubjectText">@style/com_android_mms_NotificationSubjectText</item>
-
 </resource-redirections>

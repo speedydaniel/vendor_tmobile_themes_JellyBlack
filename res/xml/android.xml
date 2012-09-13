@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<!-- framework styles -->
-	<item name="style/Theme.Holo.Light.DarkActionBar">@android:style/Theme.Holo</item>
 	<!-- framework colors -->
     <item name="color/holo_blue_light">@color/holo_blue_light</item>
     <item name="color/holo_blue_dark">@color/holo_blue_dark</item>

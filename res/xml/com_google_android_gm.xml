@@ -12,4 +12,5 @@
 	<item name="drawable/header_bg_gmail_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
 	<item name="drawable/ic_launcher_mail">@drawable/com_google_android_gm_ic_launcher_mail</item>
 	<item name="drawable/ic_launcher_shortcut_gmail_label">@drawable/ic_launcher_shortcut_gmail_label</item>
+	<item name="color/quotedTextColor">@color/quotedTextColor</item>
 </resource-redirections>
