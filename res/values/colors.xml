@@ -114,7 +114,7 @@
     <color name="com_android_mms_widget_sender_text_color_read">#ffdfdfdf</color>
     <color name="com_android_mms_widget_sender_text_color_unread">#ffffffff</color>
     <color name="com_android_mms_widget_subject_text_color_read">#ffbfbfbf</color>
-    <color name="com_android_mms_widget_subject_text_color_unread">#ffffffffff</color>
+    <color name="com_android_mms_widget_subject_text_color_unread">#ffffffff</color>
     <color name="com_android_mms_action_bar_button_text_color">#ffffffff</color>
     <color name="com_android_mms_compose_message_edit_text">#ffffffff</color>
     <color name="com_android_mms_actionbar_text">#ffffffff</color>
