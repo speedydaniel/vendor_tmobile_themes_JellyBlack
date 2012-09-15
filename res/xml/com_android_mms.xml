@@ -16,6 +16,9 @@
  -->
 
 <resource-redirections>
+	<item name="drawable/listitem_background">@drawable/com_android_mms_listitem_background</item>
+	<item name="drawable/list_item_font_primary">@drawable/com_android_mms_list_item_font_primary</item>
+	<item name="drawable/list_item_font_secondary">@drawable/com_android_mms_list_item_font_secondary</item>
 	<item name="drawable/attachment_editor_bg">@drawable/com_android_mms_attachment_editor_bg</item>
 	<item name="drawable/gradient_bg_mms_widget_holo">@drawable/com_android_mms_gradient_bg_mms_widget_holo</item>
 	<item name="drawable/gradient_bg_widget_holo">@drawable/com_android_mms_gradient_bg_widget_holo</item>
