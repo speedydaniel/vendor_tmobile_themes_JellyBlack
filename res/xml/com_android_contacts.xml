@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/com_android_contacts_aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item>
-	<item name="drawable/com_android_contacts_bg_people_updates_holo">@drawable/com_android_contacts_bg_people_updates_holo</item>
-	<item name="drawable/com_android_contacts_bg_status_contact_widget">@drawable/com_android_contacts_bg_status_contact_widget</item>
-	<item name="drawable/com_android_contacts_btn_call_pressed">@drawable/com_android_contacts_btn_call_pressed</item>
-	<item name="drawable/com_android_contacts_list_background_holo">@drawable/com_android_contacts_list_background_holo</item>
-	<item name="drawable/com_android_contacts_panel_content">@drawable/com_android_contacts_panel_content</item>
-	<item name="drawable/com_android_contacts_panel_favorites_holo_light">@drawable/com_android_contacts_panel_favorites_holo_light</item>
-	<item name="drawable/com_android_contacts_panel_message">@drawable/com_android_contacts_panel_message</item>
-	<item name="drawable/com_android_contacts_quickcon_background_texture">@drawable/com_android_contacts_quickcon_background_texture</item>
+	<item name="drawable/aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item>
+	<item name="drawable/bg_people_updates_holo">@drawable/com_android_contacts_bg_people_updates_holo</item>
+	<item name="drawable/bg_status_contact_widget">@drawable/com_android_contacts_bg_status_contact_widget</item>
+	<item name="drawable/btn_call_pressed">@drawable/com_android_contacts_btn_call_pressed</item>
+	<item name="drawable/list_background_holo">@drawable/com_android_contacts_list_background_holo</item>
+	<item name="drawable/panel_content">@drawable/com_android_contacts_panel_content</item>
+	<item name="drawable/panel_favorites_holo_light">@drawable/com_android_contacts_panel_favorites_holo_light</item>
+	<item name="drawable/panel_message">@drawable/com_android_contacts_panel_message</item>
+	<item name="drawable/quickcon_background_texture">@drawable/com_android_contacts_quickcon_background_texture</item>
 	<item name="drawable/ic_hold_pause_disabled_holo_dark">@drawable/com_android_contacts_ic_hold_pause_disabled_holo_dark</item>
 	<item name="drawable/ic_list_default_mime_holo_dark">@drawable/com_android_contacts_ic_list_default_mime_holo_dark</item>
 	<item name="drawable/ic_minus_disabled_holo_dark">@drawable/com_android_contacts_ic_minus_disabled_holo_dark</item>
@@ -49,6 +49,7 @@
 	<item name="drawable/ic_contact_picture_holo_dark">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
 	<item name="drawable/ic_contact_picture_holo_light">@drawable/com_android_contacts_ic_contact_picture_holo_light</item>
 	<item name="drawable/background_dial_holo_dark">@drawable/com_android_contacts_background_dial_holo_dark</item>
+	<item name="drawable/list_activated_holo">@drawable/com_android_contacts_list_activated_holo</item>
 
 <!-- contacts styles -->
     <item name="style/Theme.QuickContact">@style/Theme.QuickContact</item>
