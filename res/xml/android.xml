@@ -1089,5 +1089,6 @@
 	<item name="drawable/vpn_connected">@drawable/frameworks_res_vpn_connected</item>
 	<item name="drawable/vpn_disconnected">@drawable/frameworks_res_vpn_disconnected</item>
 	<item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
+	<item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
 	
 </resource-redirections>

@@ -48,7 +48,7 @@
 	<item name="drawable/ic_contact_picture_180_holo_light">@drawable/com_android_contacts_ic_contact_picture_180_holo_light</item>
 	<item name="drawable/ic_contact_picture_holo_dark">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
 	<item name="drawable/ic_contact_picture_holo_light">@drawable/com_android_contacts_ic_contact_picture_holo_light</item>
-	<item name="drawable/background_dial_holo_dark">@drawable/background_dial_holo_dark</item>
+	<item name="drawable/background_dial_holo_dark">@drawable/com_android_contacts_background_dial_holo_dark</item>
 
 <!-- contacts styles -->
     <item name="style/Theme.QuickContact">@style/Theme.QuickContact</item>
