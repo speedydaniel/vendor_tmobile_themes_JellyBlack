@@ -108,4 +108,21 @@
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
         <item name="android:actionBarItemBackground">@drawable/com_android_contacts_action_bar_item_background</item>
     </style>
+<!-- mms styles -->
+     <style name="MmsHoloTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+    <style name="com_android_mms_WidgetTitle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffefefef</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_android_mms_NotificationPrimaryText">
+        <item name="android:textColor">#ffdddddd</item>
+    </style>
+    <style name="com_android_mms_NotificationSecondaryText">
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <style name="com_android_mms_NotificationSubjectText">
+        <item name="android:textColor">#ffefefef</item>
+    </style>
 </resources>
