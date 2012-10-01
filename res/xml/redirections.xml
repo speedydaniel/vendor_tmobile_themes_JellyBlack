@@ -28,11 +28,6 @@
         android:minSdkVersion="14" />
 		
 	<package-redirections
-        android:name="com.estrongs.android.pop"
-        android:resource="@xml/com_estrongs_android_pop"
-        android:minSdkVersion="14" />
-		
-	<package-redirections
         android:name="com.asksven.betterbatterystats"
         android:resource="@xml/com_asksven_betterbatterystats"
         android:minSdkVersion="14" />
