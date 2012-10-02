@@ -16,7 +16,6 @@
  -->
  
 <resource-redirections>
-    <item name="drawable/icon">@drawable/com_android_musicfx_icon</item>
 	<item name="drawable/progress_vertical_primary_holo_dark">@drawable/com_android_musicfx_progress_vertical_primary_holo_dark</item>
 	<item name="drawable/progress_vertical_secondary_holo_dark">@drawable/com_android_musicfx_progress_vertical_secondary_holo_dark</item>
 	<item name="drawable/scrubber_vertical_primary_holo">@drawable/com_android_musicfx_scrubber_vertical_primary_holo</item>

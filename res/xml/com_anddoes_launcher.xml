@@ -9,11 +9,6 @@
 	<item name="drawable/homescreen_blue_normal_holo">@drawable/com_anddoes_launcher_homescreen_blue_normal_holo</item>
 	<item name="drawable/homescreen_blue_strong_holo">@drawable/com_anddoes_launcher_homescreen_blue_strong_holo</item>
 	<item name="drawable/hotseat_scrubber_holo">@drawable/com_anddoes_launcher_hotseat_scrubber_holo</item>
-	<item name="drawable/ic_launcher_application">@drawable/com_anddoes_launcher_ic_launcher_application</item>
-	<item name="drawable/ic_launcher_home">@drawable/com_anddoes_launcher_ic_launcher_home</item>
-	<item name="drawable/ic_launcher_info_active_holo">@drawable/com_anddoes_launcher_ic_launcher_info_active_holo</item>
-	<item name="drawable/ic_launcher_shortcut">@drawable/com_anddoes_launcher_ic_launcher_shortcut</item>
-	<item name="drawable/ic_launcher_wallpaper">@drawable/com_anddoes_launcher_ic_launcher_wallpaper</item>
 	<item name="drawable/overscroll_glow_left">@drawable/com_anddoes_launcher_overscroll_glow_left</item>
 	<item name="drawable/overscroll_glow_right">@drawable/com_anddoes_launcher_overscroll_glow_right</item>
 	<item name="drawable/paged_view_indicator">@drawable/com_anddoes_launcher_paged_view_indicator</item>

@@ -40,8 +40,6 @@
 	<item name="drawable/ic_indicators_macro">@drawable/com_android_camera_ic_indicators_macro</item>
 	<item name="drawable/ic_indicators_scn">@drawable/com_android_camera_ic_indicators_scn</item>
 	<item name="drawable/ic_indicators_sunlight">@drawable/com_android_camera_ic_indicators_sunlight</item>
-	<item name="drawable/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
-	<item name="drawable/ic_launcher_video_camera">@drawable/com_android_camera_ic_launcher_video_camera</item>
 	<item name="drawable/ic_menu_cancel_holo_light">@drawable/com_android_camera_ic_menu_cancel_holo_light</item>
 	<item name="drawable/ic_menu_done_holo_light">@drawable/com_android_camera_ic_menu_done_holo_light</item>
 	<item name="drawable/ic_menu_overflow">@drawable/com_android_camera_ic_menu_overflow</item>

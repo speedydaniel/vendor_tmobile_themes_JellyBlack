@@ -479,7 +479,6 @@
 	<item name="drawable/ic_jog_dial_sound_on">@drawable/frameworks_res_ic_jog_dial_sound_on</item>
 	<item name="drawable/ic_jog_dial_unlock">@drawable/frameworks_res_ic_jog_dial_unlock</item>
 	<item name="drawable/ic_jog_dial_vibrate_on">@drawable/frameworks_res_ic_jog_dial_vibrate_on</item>
-	<item name="drawable/ic_launcher_android">@drawable/frameworks_res_ic_launcher_android</item>
 	<item name="drawable/ic_media_embed_play">@drawable/frameworks_res_ic_media_embed_play</item>
 	<item name="drawable/ic_media_ff">@drawable/frameworks_res_ic_media_ff</item>
 	<item name="drawable/ic_media_fullscreen">@drawable/frameworks_res_ic_media_fullscreen</item>
@@ -978,7 +977,6 @@
 	<item name="drawable/sym_action_email">@drawable/frameworks_res_sym_action_email</item>
 	<item name="drawable/sym_app_on_sd_unavailable_icon">@drawable/frameworks_res_sym_app_on_sd_unavailable_icon</item>
 	<item name="drawable/sym_contact_card">@drawable/frameworks_res_sym_contact_card</item>
-	<item name="drawable/sym_def_app_icon">@drawable/frameworks_res_sym_def_app_icon</item>
 	<item name="drawable/sym_keyboard_delete">@drawable/frameworks_res_sym_keyboard_delete</item>
 	<item name="drawable/sym_keyboard_delete_dim">@drawable/frameworks_res_sym_keyboard_delete_dim</item>
 	<item name="drawable/sym_keyboard_feedback_delete">@drawable/frameworks_res_sym_keyboard_feedback_delete</item>

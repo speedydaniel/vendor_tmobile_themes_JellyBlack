@@ -16,12 +16,7 @@
  -->
  
 <resource-redirections>
-	<item name="drawable/dropbox">@drawable/com_ttxapps_dropsync_dropbox</item>
 	<item name="drawable/folder">@drawable/com_ttxapps_dropsync_folder</item>
 	<item name="drawable/folder_synced">@drawable/com_ttxapps_dropsync_folder_synced</item>
-	<item name="drawable/icon">@drawable/com_ttxapps_dropsync_icon</item>
-	<item name="drawable/ic_home">@drawable/com_ttxapps_dropsync_ic_home</item>
-	<item name="drawable/ic_launcher">@drawable/com_ttxapps_dropsync_ic_launcher</item>
-	<item name="drawable/locale_icon">@drawable/com_ttxapps_dropsync_locale_icon</item>
 	<item name="drawable/sdcard">@drawable/com_ttxapps_dropsync_sdcard</item>
 </resource-redirections>

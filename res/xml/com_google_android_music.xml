@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="mipmap/ic_launcher_shortcut_music_playlist">@mipmap/ic_launcher_shortcut_music_playlist</item>
-	<item name="mipmap/ic_launcher_play_music">@mipmap/ic_launcher_play_music</item>
 	<item name="drawable/appwidget_bg">@drawable/com_google_android_apps_genie_geniewidget_widget_bg</item>
 	<item name="drawable/appwidget_inner_focus_c">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_c_holo</item>
 	<item name="drawable/appwidget_inner_focus_l">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_l_holo</item>

@@ -6,7 +6,6 @@
 	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/com_android_systemui_btn_default_small_normal_disable_focused</item>
 	<item name="drawable/btn_default_small_pressed">@drawable/com_android_systemui_btn_default_small_pressed</item>
 	<item name="drawable/btn_default_small_selected">@drawable/com_android_systemui_btn_default_small_selected</item>
-	<item name="drawable/ic_launcher_settings">@drawable/com_android_systemui_ic_launcher_settings</item>
 	<item name="drawable/ic_navbar_blank">@drawable/com_android_systemui_ic_navbar_blank</item>
 	<item name="drawable/ic_navbar_blank_activated">@drawable/com_android_systemui_ic_navbar_blank_activated</item>
 	<item name="drawable/ic_navbar_ime_switcher">@drawable/com_android_systemui_ic_navbar_ime_switcher</item>

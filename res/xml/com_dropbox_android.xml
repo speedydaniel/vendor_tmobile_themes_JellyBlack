@@ -18,7 +18,6 @@
 	<item name="drawable/button_green_pressed">@drawable/com_dropbox_android_button_green_pressed</item>
 	<item name="drawable/gallery_item_checked">@drawable/com_dropbox_android_gallery_item_checked</item>
 	<item name="drawable/gradientbgimg">@drawable/com_dropbox_android_gradientbgimg</item>
-	<item name="drawable/icon">@drawable/com_dropbox_android_icon</item>
 	<item name="drawable/ic_action_search">@drawable/com_dropbox_android_ic_action_search</item>
 	<item name="drawable/ic_menu_moreoverflow_normal_holo_light">@drawable/com_dropbox_android_ic_menu_moreoverflow_normal_holo_light</item>
 	<item name="drawable/progress_bg_holo_light">@drawable/com_dropbox_android_progress_bg_holo_light</item>
@@ -30,4 +29,4 @@
 	<item name="drawable/tab_dropbox_pressed">@drawable/com_dropbox_android_tab_dropbox_pressed</item>
 	<item name="drawable/tab_favs_pressed">@drawable/com_dropbox_android_tab_favs_pressed</item>
 	<item name="drawable/tab_uploads_pressed">@drawable/com_dropbox_android_tab_uploads_pressed</item>
-	<item name="drawable/welcome_logo_no_play">@drawable/com_dropbox_android_welcome_logo_no_play</item></resource-redirections>
+	</resource-redirections>

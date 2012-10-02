@@ -2,10 +2,6 @@
 <resource-redirections>
 	<item name="drawable/dialing_graphic">@drawable/com_google_android_apps_googlevoice_dialing_graphic</item>
 	<item name="drawable/droid_with_speech_bubble">@drawable/com_google_android_apps_googlevoice_droid_with_speech_bubble</item>
-	<item name="drawable/first_use_icon">@drawable/com_google_android_apps_googlevoice_first_use_icon</item>
-	<item name="drawable/gv_title_bar_icon">@drawable/com_google_android_apps_googlevoice_gv_title_bar_icon</item>
-	<item name="drawable/gv_toggle_droid_icon">@drawable/com_google_android_apps_googlevoice_gv_toggle_droid_icon</item>
-	<item name="drawable/icon">@drawable/com_google_android_apps_googlevoice_icon</item>
 	<item name="drawable/ic_btn_back">@drawable/com_google_android_apps_googlevoice_ic_btn_back</item>
 	<item name="drawable/ic_btn_next">@drawable/com_google_android_apps_googlevoice_ic_btn_next</item>
 	<item name="drawable/play_pause_button_focus">@drawable/com_google_android_apps_googlevoice_play_pause_button_focus</item>

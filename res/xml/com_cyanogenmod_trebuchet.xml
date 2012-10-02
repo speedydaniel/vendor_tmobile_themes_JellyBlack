@@ -24,7 +24,6 @@
     <item name="drawable/page_hover_left_holo">@drawable/com_cyanogenmod_trebuchet_page_hover_left_holo</item>
     <item name="drawable/homescreen_blue_normal_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_normal_holo</item>
     <item name="drawable/ic_home_search_normal_holo">@drawable/com_cyanogenmod_trebuchet_ic_home_search_normal_holo</item>
-    <item name="drawable/ic_launcher_info_active_holo">@drawable/com_cyanogenmod_trebuchet_ic_launcher_info_active_holo</item>
     <item name="drawable/overscroll_glow_left">@drawable/com_cyanogenmod_trebuchet_overscroll_glow_left</item>
     <item name="drawable/overscroll_glow_right">@drawable/com_cyanogenmod_trebuchet_overscroll_glow_right</item>
 </resource-redirections>

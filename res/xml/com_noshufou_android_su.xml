@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/icon">@drawable/com_noshufou_android_su_icon</item>
-	<item name="drawable/sym_def_app_icon">@drawable/frameworks_res_sym_def_app_icon</item>
 	<item name="drawable/timepicker_down_disabled">@drawable/frameworks_res_numberpicker_down_disabled</item>
 	<item name="drawable/timepicker_down_disabled_focused">@drawable/frameworks_res_numberpicker_down_disabled_focused</item>
 	<item name="drawable/timepicker_down_normal">@drawable/frameworks_res_numberpicker_down_normal</item>

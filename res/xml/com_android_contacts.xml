@@ -28,8 +28,6 @@
 	<item name="drawable/dial_num_8_wht">@drawable/com_android_contacts_dial_num_8_wht</item>
 	<item name="drawable/dial_num_9_wht">@drawable/com_android_contacts_dial_num_9_wht</item>
 	<item name="drawable/dial_num_wht">@drawable/com_android_contacts_dial_num_wht</item>
-	<item name="drawable/ic_launcher_contacts">@drawable/com_android_contacts_ic_launcher_contacts</item>
-	<item name="drawable/ic_launcher_phone">@drawable/com_android_contacts_ic_launcher_phone</item>
 	<item name="drawable/list_pressed_holo">@drawable/com_android_contacts_list_pressed_holo</item>
 	<item name="drawable/list_pressed_holo_light">@drawable/com_android_contacts_list_pressed_holo_light</item>
 	<item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
@@ -42,8 +40,6 @@
 	<item name="drawable/tab_unselected_focused_holo">@drawable/com_android_contacts_tab_unselected_focused_holo</item>
 	<item name="drawable/tab_unselected_holo">@drawable/com_android_contacts_tab_unselected_holo</item>
 	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
-    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
-    <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>	
 	<item name="drawable/ic_contact_picture_180_holo_dark">@drawable/com_android_contacts_ic_contact_picture_180_holo_dark</item>
 	<item name="drawable/ic_contact_picture_180_holo_light">@drawable/com_android_contacts_ic_contact_picture_180_holo_light</item>
 	<item name="drawable/ic_contact_picture_holo_dark">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
