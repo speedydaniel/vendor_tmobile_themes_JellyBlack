@@ -1135,5 +1135,6 @@
     <item name="drawable/weather_8">@drawable/frameworks_res_weather_8</item>
     <item name="drawable/weather_9">@drawable/frameworks_res_weather_9</item>
     <item name="drawable/weather_na">@drawable/frameworks_res_weather_na</item>
+	<item type="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	
 </resource-redirections>
