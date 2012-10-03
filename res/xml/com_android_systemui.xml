@@ -316,6 +316,7 @@
     <item name="drawable/stat_sys_battery_charge_animfull">@drawable/com_android_systemui_stat_sys_battery_charge_animfull</item>
 	<item name="drawable/btn_off">@drawable/btn_off</item>
     <item name="drawable/btn_on">@drawable/btn_on</item>
+	<item name="drawable/notification_panel_bg">@drawable/notification_panel_bg</item>
 
 	<!-- drawables xml -->
 	<item type="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>

@@ -11,6 +11,8 @@
 	<item type="drawable" name="notification_tracking_bg">#b3000000</item>
 	<item type="drawable" name="recents_callout_line">#99ffffff</item>
 	<item type="drawable" name="notification_item_background_legacy_color">#ff8C8C8C</item>
+	<item type="drawable" name="notification_panel_bg">#b3000000</item>
+
 <!-- mms drawable -->
 	<item type="drawable" name="class_zero_background">#7f000000</item>
 	<item type="drawable" name="text_color_red">#ffff4444</item>
