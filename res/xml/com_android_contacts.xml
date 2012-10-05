@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/list_item_activated_background">@drawable/com_android_contacts_list_item_activated_background</item>
 	<item name="drawable/aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item>
 	<item name="drawable/bg_people_updates_holo">@drawable/com_android_contacts_bg_people_updates_holo</item>
 	<item name="drawable/bg_status_contact_widget">@drawable/com_android_contacts_bg_status_contact_widget</item>
