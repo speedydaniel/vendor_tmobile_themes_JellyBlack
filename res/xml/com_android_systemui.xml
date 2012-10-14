@@ -319,6 +319,7 @@
 	<item name="drawable/notification_panel_bg">@drawable/notification_panel_bg</item>
 
 	<!-- drawables xml -->
+	<item type="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item type="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item type="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
 	<item type="drawable/notification_number_text_color">@drawable/notification_number_text_color</item>
