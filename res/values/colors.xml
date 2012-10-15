@@ -104,7 +104,7 @@
     <color name="con_photo_backdrop">#000000</color>
     <color name="con_photo_container">#4c090909</color>
     <color name="con_social_widget_bg">#00000000</color>
-    <color name="con_contact_detail_fragment">#ffffff</color>
+    <color name="con_contact_detail_fragment">#000000</color>
 <!-- mms colors -->
     <color name="com_android_mms_white">#ffffffff</color>
     <color name="com_android_mms_black">#ff000000</color>
