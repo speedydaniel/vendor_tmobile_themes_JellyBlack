@@ -138,4 +138,10 @@
     <color name="com_android_mms_popup_bottom_text">#ffffffff</color>
     <color name="com_android_mms_popup_line">#ffaaaaaa</color>
     <color name="com_android_mms_popup_background">#ff000000</color>
+<!--swype colors-->
+	<color name="trace_color">#ffffffff</color>
+	<color name="about_swype_links">#ffffffff</color>
+	<color name="word_inline_background_color">#ffffffff</color>
+	<color name="candidate_recommended">#ffffffff</color>
+	<color name="ver_candidate_recommended">#ffffffff</color>
 </resources>
