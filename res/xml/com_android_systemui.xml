@@ -77,7 +77,6 @@
 	<item name="drawable/stat_sys_data_fully_connected_e">@drawable/com_android_systemui_stat_sys_data_fully_connected_e</item>
 	<item name="drawable/stat_sys_data_fully_connected_g">@drawable/com_android_systemui_stat_sys_data_fully_connected_g</item>
 	<item name="drawable/stat_sys_data_fully_connected_h">@drawable/com_android_systemui_stat_sys_data_fully_connected_h</item>
-	<item name="drawable/stat_sys_data_fully_connected_hp">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp</item>
 	<item name="drawable/stat_sys_signal_0">@drawable/com_android_systemui_stat_sys_signal_0</item>
 	<item name="drawable/stat_sys_signal_0_fully">@drawable/com_android_systemui_stat_sys_signal_0_fully</item>
 	<item name="drawable/stat_sys_signal_1">@drawable/com_android_systemui_stat_sys_signal_1</item>
@@ -107,8 +106,17 @@
 	<item name="drawable/stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
 	<item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
 	<item name="drawable/stat_sys_wifi_signal_null">@drawable/com_android_systemui_stat_sys_wifi_signal_null</item>
-
-
+	<item name="drawable/stat_sys_data_fully_connected_1x_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_1x_alt</item>
+	<item name="drawable/stat_sys_data_fully_connected_3g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_3g_alt</item>
+	<item name="drawable/stat_sys_data_fully_connected_4g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_4g_alt</item>
+	<item name="drawable/stat_sys_data_fully_connected_e_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_e_alt</item>
+	<item name="drawable/stat_sys_data_fully_connected_g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_g_alt</item>
+	<item name="drawable/stat_sys_data_fully_connected_hp">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp</item>
+	<item name="drawable/stat_sys_data_fully_connected_hp_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp_alt</item>
+	<item name="drawable/stat_sys_data_fully_connected_h_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_h_alt</item>
+	<item name="drawable/stat_sys_signal_inout_alt">@drawable/com_android_systemui_stat_sys_signal_inout_alt</item>
+	<item name="drawable/stat_sys_signal_in_alt">@drawable/com_android_systemui_stat_sys_signal_in_alt</item>
+	<item name="drawable/stat_sys_signal_out_alt">@drawable/com_android_systemui_stat_sys_signal_out_alt</item>
 
 	<!-- battery -->
     <item name="drawable/stat_sys_battery_0">@drawable/com_android_systemui_stat_sys_battery_0</item>
@@ -343,4 +351,8 @@
 	<item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
 	<item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
 	<item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
+	<item name="style/TextAppearance.StatusBar.BatteryTextOnly">@style/TextAppearance.StatusBar.BatteryTextOnly</item>
+	<item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
+	<item name="style/TextAppearance.StatusBar.WifiText">@style/TextAppearance.StatusBar.WifiText</item>
+	<item name="style/TextAppearance.StatusBar.SignalText">@style/TextAppearance.StatusBar.SignalText</item>
 </resource-redirections>

@@ -125,4 +125,25 @@
     <style name="com_android_mms_NotificationSubjectText">
         <item name="android:textColor">#ffefefef</item>
     </style>
+	<!-- systemui styles -->
+	<style name="TextAppearance.StatusBar.BatteryTextOnly" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.StatusBar.BatteryTextOnly_Plugged" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+	</style>
+	<style name="TextAppearance.StatusBar.WifiText" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.StatusBar.SignalText" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
 </resources>
