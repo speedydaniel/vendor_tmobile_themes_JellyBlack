@@ -333,8 +333,6 @@
 	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
 	<item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
 	<item name="drawable/notification_icon_area_smoke">@drawable/notification_icon_area_smoke</item>
-	<item type="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
-	<item type="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item type="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
 	<item type="drawable/notification_number_text_color">@drawable/notification_number_text_color</item>
 	<item type="drawable/notification_item_background_color">@drawable/notification_item_background_color</item>
