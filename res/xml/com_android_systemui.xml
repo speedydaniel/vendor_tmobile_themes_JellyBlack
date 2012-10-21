@@ -369,5 +369,4 @@
 	<item name="style/TextAppearance.StatusBar.Expanded">@style/TextAppearance.StatusBar.Expanded</item>
 	<item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
 	<item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
-	<item name="style/TextAppearance.StatusBar.Expanded.Network">@style/TextAppearance.StatusBar.Expanded.Network</item>
 </resource-redirections>
