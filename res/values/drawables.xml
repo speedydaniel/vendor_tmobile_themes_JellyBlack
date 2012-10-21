@@ -2,17 +2,20 @@
 <resources>
 	<item type="drawable" name="notification_item_background_color_pressed">#ff666666</item>
 	<item type="drawable" name="notification_number_text_color">#ffffffff</item>
-	<item type="drawable" name="notification_item_background_color">#b3000000</item>
-	<item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
-	<item type="drawable" name="status_bar_recents_app_thumbnail_background">#b3000000</item>
-	<item type="drawable" name="status_bar_notification_row_background_color">#b3000000</item>
-	<item type="drawable" name="ticker_background_color">#d81d1d1d</item>
+	<item type="drawable" name="notification_item_background_color">#ff000000</item>
+	<item type="drawable" name="status_bar_recents_background_solid">#ff000000</item>
+	<item type="drawable" name="status_bar_recents_app_thumbnail_background">#ff000000</item>
+	<item type="drawable" name="status_bar_notification_row_background_color">#90000000</item>
+	<item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
 	<item type="drawable" name="notification_tracking_bg">#b3000000</item>
 	<item type="drawable" name="recents_callout_line">#99ffffff</item>
-	<item type="drawable" name="notification_item_background_legacy_color">#ff8C8C8C</item>
-	<item type="drawable" name="notification_panel_bg">#b3000000</item>
-	<item type="drawable" name="notification_template_icon_bg">#b3000000</item>
-    <item type="drawable" name="notification_template_icon_low_bg">#b3000000</item>
+	<item type="drawable" name="notification_item_background_legacy_color">#ff050505</item>
+	<item type="drawable" name="notification_template_icon_bg">#ff000000</item>
+	<item type="drawable" name="notification_template_icon_low_bg">#ff000000</item>
+	<item type="drawable" name="notification_icon_area_smoke">#ff000000</item>
+	<item type="drawable" name="intruder_bg_pressed">#ff7F7F7F</item>
+	<item type="drawable" name="notification_header_bg">#ff000000</item>
+
 
 <!-- mms drawable -->
 	<item type="drawable" name="class_zero_background">#7f000000</item>

@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<style name="Black" parent="@android:style/Theme" />
+	<!-- systemui styles -->
     <style name="TextAppearance.StatusBar.Title" parent="@android:style/TextAppearance.Holo.Widget.Button">
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
-    <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/TextAppearance.Holo.Widget.Button" />
-    <style name="TextAppearance.StatusBar.SystemPanel" parent="@android:style/TextAppearance.Holo.Widget.Button">
+    <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/TextAppearance.StatusBar.Icon" />
+    <style name="TextAppearance.StatusBar.SystemPanel" parent="@android:style/TextAppearance.StatusBar.Icon">
         <item name="android:textAppearance">?android:textAppearance</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
-    <style name="TextAppearance.StatusBar.TextButton" parent="@android:style/TextAppearance.Holo.Widget.Button">
+    <style name="TextAppearance.StatusBar.TextButton" parent="@android:style/TextAppearance.StatusBar.Icon">
         <item name="android:textAppearance">?android:textAppearance</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
@@ -32,9 +33,48 @@
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
-    <style name="TextAppearance.StatusBar.Signal" parent="@android:style/TextAppearance.StatusBar.Icon">
+    <style name="TextAppearance.StatusBar.Expanded" parent="@*android:style/TextAppearance.StatusBar" />
+    <style name="TextAppearance.StatusBar.Expanded.Clock" parent="@style/TextAppearance.StatusBar.Expanded">
+        <item name="android:textSize">32.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded.Date" parent="@style/TextAppearance.StatusBar.Expanded">
         <item name="android:textSize">12.0dip</item>
         <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded.Network" parent="@style/TextAppearance.StatusBar.Expanded.Date">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Signal" parent="@*android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+	<style name="TextAppearance.StatusBar.BatteryTextOnly" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.StatusBar.BatteryTextOnly_Plugged" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+	</style>
+	<style name="TextAppearance.StatusBar.WifiText" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.StatusBar.SignalText" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="Text">
         <item name="android:textColor">#ffffffff</item>
     </style>
 <!-- contacts styles -->
@@ -125,25 +165,5 @@
     <style name="com_android_mms_NotificationSubjectText">
         <item name="android:textColor">#ffefefef</item>
     </style>
-	<!-- systemui styles -->
-	<style name="TextAppearance.StatusBar.BatteryTextOnly" parent="@android:style/TextAppearance.StatusBar.Icon">
-        <item name="android:textSize">16.0dip</item>
-        <item name="android:textStyle">normal</item>
-        <item name="android:textColor">@color/white</item>
-    </style>
-    <style name="TextAppearance.StatusBar.BatteryTextOnly_Plugged" parent="@android:style/TextAppearance.StatusBar.Icon">
-        <item name="android:textSize">16.0dip</item>
-        <item name="android:textStyle">normal</item>
-        <item name="android:textColor">@color/white</item>
-	</style>
-	<style name="TextAppearance.StatusBar.WifiText" parent="@android:style/TextAppearance.StatusBar.Icon">
-        <item name="android:textSize">16.0dip</item>
-        <item name="android:textStyle">normal</item>
-        <item name="android:textColor">@color/white</item>
-    </style>
-    <style name="TextAppearance.StatusBar.SignalText" parent="@android:style/TextAppearance.StatusBar.Icon">
-        <item name="android:textSize">16.0dip</item>
-        <item name="android:textStyle">normal</item>
-        <item name="android:textColor">@color/white</item>
-    </style>
+
 </resources>

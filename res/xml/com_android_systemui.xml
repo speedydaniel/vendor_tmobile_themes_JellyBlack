@@ -324,9 +324,15 @@
     <item name="drawable/stat_sys_battery_charge_animfull">@drawable/com_android_systemui_stat_sys_battery_charge_animfull</item>
 	<item name="drawable/btn_off">@drawable/btn_off</item>
     <item name="drawable/btn_on">@drawable/btn_on</item>
-	<item name="drawable/notification_panel_bg">@drawable/notification_panel_bg</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
+    <item name="drawable/top_divider_glow">@drawable/com_android_systemui_top_divider_glow</item>
+    <item name="drawable/bottom_divider_glow">@drawable/com_android_systemui_bottom_divider_glow</item>
+
 
 	<!-- drawables xml -->
+	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
+	<item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
+	<item name="drawable/notification_icon_area_smoke">@drawable/notification_icon_area_smoke</item>
 	<item type="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item type="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item type="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
@@ -339,20 +345,29 @@
 	<item type="drawable/notification_tracking_bg">@drawable/notification_tracking_bg</item>
 	<item type="drawable/recents_callout_line">@drawable/recents_callout_line</item>
 	<item type="drawable/notification_item_background_legacy_color">@drawable/notification_item_background_legacy_color</item>
-	
 	<item name="drawable/stat_sys_battery_honey">@drawable/com_android_systemui_stat_sys_battery_honey</item>
-    <item name="drawable/stat_sys_battery_circle">@drawable/com_android_systemui_stat_sys_battery_circle</item>
-    <item name="drawable/stat_sys_battery_charge_honey">@drawable/com_android_systemui_stat_sys_battery_charge_honey</item>
-    <item name="drawable/stat_sys_battery_charge_circle">@drawable/com_android_systemui_stat_sys_battery_charge_circle</item>
-    <item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
-    <item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>
+	<item name="drawable/stat_sys_battery_circle">@drawable/com_android_systemui_stat_sys_battery_circle</item>
+	<item name="drawable/stat_sys_battery_charge_honey">@drawable/com_android_systemui_stat_sys_battery_charge_honey</item>
+	<item name="drawable/stat_sys_battery_charge_circle">@drawable/com_android_systemui_stat_sys_battery_charge_circle</item>
+	<item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
+	<item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>
 
 	<!-- styles -->
-	<item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
-	<item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
-	<item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
 	<item name="style/TextAppearance.StatusBar.BatteryTextOnly">@style/TextAppearance.StatusBar.BatteryTextOnly</item>
 	<item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
 	<item name="style/TextAppearance.StatusBar.WifiText">@style/TextAppearance.StatusBar.WifiText</item>
 	<item name="style/TextAppearance.StatusBar.SignalText">@style/TextAppearance.StatusBar.SignalText</item>
+	<item name="style/TextAppearance.StatusBar.IntruderAlert">@style/TextAppearance.StatusBar.IntruderAlert</item>
+	<item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
+	<item name="style/TextAppearance.StatusBar.Battery">@style/TextAppearance.StatusBar.Battery</item>
+	<item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
+	<item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
+	<item name="style/TextAppearance.StatusBar.Signal">@style/TextAppearance.StatusBar.Signal</item>
+	<item name="style/TextAppearance.StatusBar.Title">@style/TextAppearance.StatusBar.Title</item>
+	<item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
+	<item name="style/Text">@style/Text</item>
+	<item name="style/TextAppearance.StatusBar.Expanded">@style/TextAppearance.StatusBar.Expanded</item>
+	<item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
+	<item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
+	<item name="style/TextAppearance.StatusBar.Expanded.Network">@style/TextAppearance.StatusBar.Expanded.Network</item>
 </resource-redirections>
