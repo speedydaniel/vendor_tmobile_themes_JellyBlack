@@ -330,6 +330,8 @@
 
 
 	<!-- drawables xml -->
+	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
+        <item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
 	<item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
 	<item name="drawable/notification_icon_area_smoke">@drawable/notification_icon_area_smoke</item>
