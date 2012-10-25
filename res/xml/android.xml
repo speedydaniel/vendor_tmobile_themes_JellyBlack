@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- framework colors -->
+
     <item name="color/holo_blue_light">@color/holo_blue_light</item>
     <item name="color/holo_blue_dark">@color/holo_blue_dark</item>
     <item name="color/holo_blue_bright">@color/holo_blue_bright</item>
@@ -34,7 +35,7 @@
     <item name="color/group_button_dialog_pressed_holo_dark">@color/group_button_dialog_pressed_holo_dark</item>
     <item name="color/highlighted_text_holo_dark">@color/highlighted_text_holo_dark</item>
 	<!-- framework xml drawables -->
-
+	<item name="drawable/notification_template_icon_bg">@color/transparent</item>
 	<item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_progress_horizontal_holo_dark</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_progress_horizontal_holo_light</item>
 	<item name="drawable/progress_indeterminate_horizontal_holo">@drawable/frameworks_res_progress_indeterminate_horizontal_holo</item>
