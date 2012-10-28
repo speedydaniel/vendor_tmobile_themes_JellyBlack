@@ -1,6 +1,6 @@
 # Can ignore specific files
 .properties
-
+my.properties
 # Use wildcards as well
 *~
 *.swp
