@@ -106,16 +106,35 @@
 	<item name="drawable/stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
 	<item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
 	<item name="drawable/stat_sys_wifi_signal_null">@drawable/com_android_systemui_stat_sys_wifi_signal_null</item>
+	<item name="drawable/stat_sys_data_fully_connected_hp">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp</item>
+	<item name="drawable/stat_sys_data_connected_1x_alt">@drawable/com_android_systemui_stat_sys_data_connected_1x_alt</item>
+	<item name="drawable/stat_sys_data_connected_3g_alt">@drawable/com_android_systemui_stat_sys_data_connected_3g_alt</item>
+	<item name="drawable/stat_sys_data_connected_4g_alt">@drawable/com_android_systemui_stat_sys_data_connected_4g_alt</item>
+	<item name="drawable/stat_sys_data_connected_e_alt">@drawable/com_android_systemui_stat_sys_data_connected_e_alt</item>
+	<item name="drawable/stat_sys_data_connected_g_alt">@drawable/com_android_systemui_stat_sys_data_connected_g_alt</item>
+	<item name="drawable/stat_sys_data_connected_hp_alt">@drawable/com_android_systemui_stat_sys_data_connected_hp_alt</item>
+	<item name="drawable/stat_sys_data_connected_h_alt">@drawable/com_android_systemui_stat_sys_data_connected_h_alt</item>
+	<item name="drawable/stat_sys_data_connected_roam_alt">@drawable/com_android_systemui_stat_sys_data_connected_roam_alt</item>
 	<item name="drawable/stat_sys_data_fully_connected_1x_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_1x_alt</item>
 	<item name="drawable/stat_sys_data_fully_connected_3g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_3g_alt</item>
 	<item name="drawable/stat_sys_data_fully_connected_4g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_4g_alt</item>
 	<item name="drawable/stat_sys_data_fully_connected_e_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_e_alt</item>
 	<item name="drawable/stat_sys_data_fully_connected_g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_g_alt</item>
-	<item name="drawable/stat_sys_data_fully_connected_hp">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp</item>
 	<item name="drawable/stat_sys_data_fully_connected_hp_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp_alt</item>
 	<item name="drawable/stat_sys_data_fully_connected_h_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_h_alt</item>
+	<item name="drawable/stat_sys_signal_0_alt">@drawable/com_android_systemui_stat_sys_signal_0_alt</item>
+	<item name="drawable/stat_sys_signal_0_fully_alt">@drawable/com_android_systemui_stat_sys_signal_0_fully_alt</item>
+	<item name="drawable/stat_sys_signal_1_alt">@drawable/com_android_systemui_stat_sys_signal_1_alt</item>
+	<item name="drawable/stat_sys_signal_1_fully_alt">@drawable/com_android_systemui_stat_sys_signal_1_fully_alt</item>
+	<item name="drawable/stat_sys_signal_2_alt">@drawable/com_android_systemui_stat_sys_signal_2_alt</item>
+	<item name="drawable/stat_sys_signal_2_fully_alt">@drawable/com_android_systemui_stat_sys_signal_2_fully_alt</item>
+	<item name="drawable/stat_sys_signal_3_alt">@drawable/com_android_systemui_stat_sys_signal_3_alt</item>
+	<item name="drawable/stat_sys_signal_3_fully_alt">@drawable/com_android_systemui_stat_sys_signal_3_fully_alt</item>
+	<item name="drawable/stat_sys_signal_4_alt">@drawable/com_android_systemui_stat_sys_signal_4_alt</item>
+	<item name="drawable/stat_sys_signal_4_fully_alt">@drawable/com_android_systemui_stat_sys_signal_4_fully_alt</item>
 	<item name="drawable/stat_sys_signal_inout_alt">@drawable/com_android_systemui_stat_sys_signal_inout_alt</item>
 	<item name="drawable/stat_sys_signal_in_alt">@drawable/com_android_systemui_stat_sys_signal_in_alt</item>
+	<item name="drawable/stat_sys_signal_null_alt">@drawable/com_android_systemui_stat_sys_signal_null_alt</item>
 	<item name="drawable/stat_sys_signal_out_alt">@drawable/com_android_systemui_stat_sys_signal_out_alt</item>
 
 	<!-- battery -->
