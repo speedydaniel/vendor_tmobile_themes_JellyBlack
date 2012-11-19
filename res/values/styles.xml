@@ -90,9 +90,9 @@
         <item name="android:background">@drawable/com_android_contacts_background_dial_holo_dark</item>
     </style>
     <style name="ContactsActionBarStyle" parent="@android:style/Widget.Holo.ActionBar.Solid">
-        <item name="android:background">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
+        <item name="android:background">@drawable/framework_res_ab_bottom_solid_dark_holo</item>
         <item name="android:displayOptions"></item>
-        <item name="android:backgroundStacked">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
+        <item name="android:backgroundStacked">@drawable/framework_res_ab_bottom_solid_dark_holo</item>
     </style>
     <style name="ContactsActionBarDropDownStyle" parent="@android:style/Widget.Holo.Spinner">
         <item name="android:background">@drawable/com_android_contacts_ab_dropdown_navigation_item_background</item>

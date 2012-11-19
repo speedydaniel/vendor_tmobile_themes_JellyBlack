@@ -29,8 +29,8 @@
 	<item name="drawable/notification_widget_logo_4">@drawable/notification_widget_logo_4</item>
 	<item name="drawable/notification_widget_logo_5">@drawable/notification_widget_logo_5</item>
 	<item name="drawable/splash_screen">@drawable/com_anydo_splash_screen</item>
-	<item name="drawable/progress_primary_holo_dark">@drawable/frameworks_res_progress_primary_holo_light</item>
-	<item name="drawable/progress_secondary_holo_dark">@drawable/frameworks_res_progress_secondary_holo_light</item>
+	<item name="drawable/progress_primary_holo_dark">@drawable/framework_res_progress_primary_holo_light</item>
+	<item name="drawable/progress_secondary_holo_dark">@drawable/framework_res_progress_secondary_holo_light</item>
 	<item name="drawable/add_icon_wh">@drawable/com_anydo_add_icon_wh</item>
 	<item name="drawable/alert_bell_idle">@drawable/com_anydo_alert_bell_idle</item>
 	<item name="drawable/alert_down">@drawable/com_anydo_alert_down</item>
