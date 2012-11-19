@@ -64,6 +64,10 @@
 	<color name="white">#ffffffff</color>
 	<color name="transparent">#00000000</color>
 	<color name="black">#ff000000</color>
+	<!-- clock -->
+	<color name="alarm_selected_color">#aa33B5E5</color>
+	<color name="blackish">#ff000000</color>
+	<color name="blackish_trans">#ff000000</color>
 	<!-- browser -->
 	<color name="qc_normal">#e0CCCCCC</color>
 	<color name="qc_selected">#f0CCCCCC</color>
