@@ -65,6 +65,8 @@
 	<item name="drawable/list_section_divider_holo_light">@drawable/framework_res_list_section_divider_holo_light</item>
 	<item name="drawable/numberpicker_selection_divider">@drawable/framework_res_numberpicker_selection_divider</item>
 	<!-- framework xml drawables -->
+	<item name="drawable/background_holo_light">@color/background_holo_light</item>
+	<item name="drawable/background_holo_dark">@color/background_holo_dark</item>
 	<item name="drawable/notification_template_icon_bg">@color/transparent</item>
 	<item name="drawable/progress_horizontal_holo_dark">@drawable/framework_res_progress_horizontal_holo_dark</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/framework_res_progress_horizontal_holo_light</item>
@@ -74,6 +76,33 @@
 	<item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
 	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
 	<!-- framework pngs -->
+	<item name="drawable/ic_coins_s">@drawable/framework_res_ic_coins_s</item>
+	<item name="drawable/ic_lockscreen_alarm">@drawable/framework_res_ic_lockscreen_alarm</item>
+	<item name="drawable/ic_lockscreen_sim">@drawable/framework_res_ic_lockscreen_sim</item>
+	<item name="drawable/ic_media_route_on_0_holo_dark">@drawable/framework_res_ic_media_route_on_0_holo_dark</item>
+	<item name="drawable/ic_media_route_on_0_holo_light">@drawable/framework_res_ic_media_route_on_0_holo_light</item>
+	<item name="drawable/ic_media_route_on_1_holo_dark">@drawable/framework_res_ic_media_route_on_1_holo_dark</item>
+	<item name="drawable/ic_media_route_on_1_holo_light">@drawable/framework_res_ic_media_route_on_1_holo_light</item>
+	<item name="drawable/ic_media_route_on_2_holo_dark">@drawable/framework_res_ic_media_route_on_2_holo_dark</item>
+	<item name="drawable/ic_media_route_on_2_holo_light">@drawable/framework_res_ic_media_route_on_2_holo_light</item>
+	<item name="drawable/ic_notify_wifidisplay">@drawable/framework_res_ic_notify_wifidisplay</item>
+	<item name="drawable/ic_stat_turn_wifi_off">@drawable/framework_res_ic_stat_turn_wifi_off</item>
+	<item name="drawable/kg_add_widget">@drawable/framework_res_kg_add_widget</item>
+	<item name="drawable/kg_bouncer_bg_white">@drawable/framework_res_kg_bouncer_bg_white</item>
+	<item name="drawable/kg_security_grip">@drawable/framework_res_kg_security_grip</item>
+	<item name="drawable/kg_security_lock">@drawable/framework_res_kg_security_lock</item>
+	<item name="drawable/kg_security_lock_focused">@drawable/framework_res_kg_security_lock_focused</item>
+	<item name="drawable/kg_security_lock_normal">@drawable/framework_res_kg_security_lock_normal</item>
+	<item name="drawable/kg_security_lock_pressed">@drawable/framework_res_kg_security_lock_pressed</item>
+	<item name="drawable/kg_widget_bg_padded">@drawable/framework_res_kg_widget_bg_padded</item>
+	<item name="drawable/kg_widget_delete_drop_target">@drawable/framework_res_kg_widget_delete_drop_target</item>
+	<item name="drawable/lockscreen_protection_pattern">@drawable/framework_res_lockscreen_protection_pattern</item>
+	<item name="drawable/magnified_region_frame">@drawable/framework_res_magnified_region_frame</item>
+	<item name="drawable/stat_notify_rssi_in_range">@drawable/framework_res_stat_notify_rssi_in_range</item>
+	<item name="drawable/sym_keyboard_enter">@drawable/framework_res_sym_keyboard_enter</item>
+	<item name="drawable/sym_keyboard_return_holo">@drawable/framework_res_sym_keyboard_return_holo</item>
+	<item name="drawable/ic_lockscreen_alarm">@drawable/framework_res_ic_lockscreen_alarm</item>
+	<item name="drawable/ic_coins_s">@drawable/framework_res_ic_coins_s</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/framework_res_ab_bottom_solid_dark_holo</item>
 	<item name="drawable/ab_bottom_solid_inverse_holo">@drawable/framework_res_ab_bottom_solid_inverse_holo</item>
 	<item name="drawable/ab_bottom_solid_light_holo">@drawable/framework_res_ab_bottom_solid_light_holo</item>
@@ -96,7 +125,6 @@
 	<item name="drawable/activity_title_bar">@drawable/framework_res_activity_title_bar</item>
 	<item name="drawable/arrow_down_float">@drawable/framework_res_arrow_down_float</item>
 	<item name="drawable/arrow_up_float">@drawable/framework_res_arrow_up_float</item>
-	<item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
 	<item name="drawable/battery_charge_background">@drawable/framework_res_battery_charge_background</item>
 	<item name="drawable/bottom_bar">@drawable/framework_res_bottom_bar</item>
 	<item name="drawable/btn_cab_done_default_holo_dark">@drawable/framework_res_btn_cab_done_default_holo_dark</item>
