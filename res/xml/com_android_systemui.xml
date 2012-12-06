@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- files -->
+	<item name="drawable/ic_qs_alarm_on">@drawable/com_android_systemui_ic_qs_alarm_on</item>
 	<item name="drawable/arrow_dashed">@drawable/com_android_systemui_arrow_dashed</item>
 	<item name="drawable/btn_default_small_normal">@drawable/com_android_systemui_btn_default_small_normal</item>
 	<item name="drawable/btn_default_small_normal_disable">@drawable/com_android_systemui_btn_default_small_normal_disable</item>
@@ -503,6 +504,8 @@
     <item name="drawable/bottom_divider_glow">@drawable/com_android_systemui_bottom_divider_glow</item>
 	<item name="drawable/intruder_window_bg">@drawable/intruder_window_bg</item>
 	<!-- drawables xml -->
+	<item type="drawable/qs_sys_battery">@drawable/com_android_systemui_qs_sys_battery</item>
+	<item type="drawable/qs_sys_battery_charging">@drawable/com_android_systemui_qs_sys_battery_charging</item>
 	<item type="drawable/qs_tile_background">@drawable/com_android_systemui_qs_tile_background</item>
 	<item type="drawable/notification_icon_area_smoke">@drawable/notification_icon_area_smoke</item>
 	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
