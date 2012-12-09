@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- files -->
+	<item name="drawable/ic_qs_location">@drawable/com_android_systemui_ic_qs_location</item>
 	<item name="drawable/ic_qs_alarm_on">@drawable/com_android_systemui_ic_qs_alarm_on</item>
 	<item name="drawable/arrow_dashed">@drawable/com_android_systemui_arrow_dashed</item>
 	<item name="drawable/btn_default_small_normal">@drawable/com_android_systemui_btn_default_small_normal</item>
