@@ -89,6 +89,7 @@
     <item name="color/delivery_report_date">@color/com_android_mms_delivery_report_date</item>
     <item name="color/button_text">@color/com_android_mms_button_text</item>
     <item name="color/message_recieved">@color/com_android_mms_message_recieved</item>
+	<item name="color/message_received">@color/com_android_mms_message_received</item>
     <item name="color/message_sent">@color/com_android_mms_message_sent</item>
     <item name="color/widget_unread_text">@color/com_android_mms_widget_unread_text</item>
     <item name="color/widget_loading">@color/com_android_mms_widget_loading</item>

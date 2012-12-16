@@ -136,6 +136,7 @@
 	<color name="com_android_mms_delivery_report_date">#ffffffff</color>
 	<color name="com_android_mms_button_text">#ffffffff</color>
 	<color name="com_android_mms_message_recieved">#ffffffff</color>
+	<color name="com_android_mms_message_received">#ffffffff</color>
 	<color name="com_android_mms_message_sent">#ff969696</color>
 	<color name="com_android_mms_widget_unread_text">#ffffffff</color>
 	<color name="com_android_mms_widget_loading">#ff000000</color>
