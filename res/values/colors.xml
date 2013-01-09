@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>keyHintLetterColor
+<resources>
 	<color name="keyHintLetterColor">#ffffffff</color>
 	<color name="holo_blue_light">#ff969696</color>
 	<color name="holo_blue_dark">#ff666666</color>
