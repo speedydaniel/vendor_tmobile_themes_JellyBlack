@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<item type="drawable" name="screen_background_light">#ffffffff</item>
 	<item type="drawable" name="intruder_bg_pressed">#ff7F7F7F</item>
 	<item type="drawable" name="notification_header_bg">#c5000000</item>
 	<item type="drawable" name="notification_icon_area_smoke">#c5000000</item>
