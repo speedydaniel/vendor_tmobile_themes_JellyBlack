@@ -83,11 +83,8 @@
 	<item name="drawable/play_controls_music_widget_pressed_holo">@drawable/com_google_android_music_play_controls_music_widget_pressed_holo</item>
 	<item name="drawable/popup">@drawable/com_google_android_music_popup</item>
 	<item name="drawable/preview">@drawable/com_google_android_music_preview</item>
-	<item name="drawable/scrubber_control_disabled_focused_holo">@drawable/com_google_android_music_scrubber_control_disabled_focused_holo</item>
-	<item name="drawable/scrubber_control_disabled_holo">@drawable/com_google_android_music_scrubber_control_disabled_holo</item>
-	<item name="drawable/scrubber_control_focused_holo">@drawable/com_google_android_music_scrubber_control_focused_holo</item>
-	<item name="drawable/scrubber_control_normal_holo">@drawable/com_google_android_music_scrubber_control_normal_holo</item>
-	<item name="drawable/scrubber_control_pressed_holo">@drawable/com_google_android_music_scrubber_control_pressed_holo</item>
+	<item name="drawable/scrubber_control_selector_holo">@drawable/framework_res_scrubber_control_selector_holo</item>
+	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
 	<item name="drawable/spinner_ab_default_holo_dark">@drawable/com_google_android_music_spinner_ab_default_holo_dark</item>
 	<item name="drawable/spinner_ab_focused_holo_dark">@drawable/com_google_android_music_spinner_ab_focused_holo_dark</item>
 	<item name="drawable/tab_bottom_holo">@drawable/com_google_android_music_tab_bottom_holo</item>

@@ -65,7 +65,7 @@
 	<item name="drawable/list_section_divider_holo_light">@drawable/framework_res_list_section_divider_holo_light</item>
 	<item name="drawable/numberpicker_selection_divider">@drawable/framework_res_numberpicker_selection_divider</item>
 	<!-- framework xml drawables -->
-<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
+	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
 	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
 	<item name="drawable/notification_template_icon_bg">@color/transparent</item>
