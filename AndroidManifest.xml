@@ -20,7 +20,7 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.TUN_SD.theme.JellyBlack"
     android:hasCode="false"
-    android:versionCode="1" android:versionName="3.5beta">
+    android:versionCode="1" android:versionName="3.5">
 
     <application name="JellyBlack" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlack">
     </application>
