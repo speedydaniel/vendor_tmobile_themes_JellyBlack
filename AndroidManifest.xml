@@ -22,7 +22,7 @@
     android:hasCode="false"
     android:versionCode="1" android:versionName="3.5beta">
 
-    <application name="JellyBlack" android:hasCode="false" android:icon="@drawable/icon" android:label="JellyBlack">
+    <application name="JellyBlack" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlack">
     </application>
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
