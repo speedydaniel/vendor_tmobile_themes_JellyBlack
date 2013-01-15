@@ -17,12 +17,15 @@
 
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:pluto="http://www.w3.org/2001/pluto.html" 
-    android:minSdkVersion="7" 
-    android:targetSdkVersion="14" 
+    xmlns:pluto="http://www.w3.org/2001/pluto.html"  
     package="com.TUN_SD.theme.JellyBlack"
-    android:hasCode="false"
-    android:versionCode="3" android:versionName="3.6">
+    android:versionCode="4"
+    android:versionName="3.6.1"
+    android:hasCode="false" >
+
+<uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="17" />
 
     <application name="JellyBlack" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlack">
     </application>
