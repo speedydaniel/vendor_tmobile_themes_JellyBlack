@@ -27,11 +27,12 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="17" />
 
-    <application name="JellyBlack" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlack">
-    </application>
-
-    <!-- Make sure this theme APK only shows up on appropriate devices. -->
-    <uses-feature android:name="com.tmobile.software.themes" />
+     <application
+        android:allowBackup="false"
+        android:label="JellyBlack Theme"
+        android:icon="@drawable/ic_launcher"
+        android:hasCode="false"
+        android:name="JellyBlack" />
 
     <theme 
         pluto:themeId="JellyBlack"
@@ -51,3 +52,4 @@
     </theme>
 
 </manifest>
+
