@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/actionbar_translucent">@drawable/com_android_gallery3d_actionbar_translucent</item>
+	<item name="drawable/bg_vidcontrol">@drawable/com_android_gallery3d_bg_vidcontrol</item>
+	<item name="drawable/border_photo_frame_widget_focused_holo">@drawable/com_android_gallery3d_border_photo_frame_widget_focused_holo</item>
+	<item name="drawable/border_photo_frame_widget_pressed_holo">@drawable/com_android_gallery3d_border_photo_frame_widget_pressed_holo</item>
+	<item name="drawable/btn_default_pressed_holo_dark">@drawable/com_android_gallery3d_btn_default_pressed_holo_dark</item>
+	<item name="drawable/camera_crop_holo">@drawable/com_android_gallery3d_camera_crop_holo</item>
+	<item name="drawable/focus_box">@drawable/com_android_gallery3d_focus_box</item>
+	<item name="drawable/grid_pressed">@drawable/com_android_gallery3d_grid_pressed</item>
+	<item name="drawable/grid_selected">@drawable/com_android_gallery3d_grid_selected</item>
+	<item name="drawable/ic_pan_thumb">@drawable/com_android_gallery3d_ic_pan_thumb</item>
+	<item name="drawable/menu_dropdown_panel_holo_dark">@drawable/com_android_gallery3d_menu_dropdown_panel_holo_dark</item>
+	<item name="drawable/overscroll_edge">@drawable/com_android_gallery3d_overscroll_edge</item>
+	<item name="drawable/overscroll_glow">@drawable/com_android_gallery3d_overscroll_glow</item>
+	<item name="drawable/panel_undo_holo">@drawable/com_android_gallery3d_panel_undo_holo</item>
+	<item name="drawable/photoeditor_tab_selected_focused_holo">@drawable/com_android_contacts_photoeditor_tab_selected_focused_holo</item>
+	<item name="drawable/photoeditor_tab_selected_holo">@drawable/com_android_contacts_photoeditor_tab_selected_holo</item>
+	<item name="drawable/photoeditor_tab_selected_pressed_holo">@drawable/com_android_contacts_photoeditor_tab_selected_pressed_holo</item>
+	<item name="drawable/photoeditor_tab_unselected_focused_holo">@drawable/com_android_contacts_photoeditor_tab_unselected_focused_holo</item>
+	<item name="drawable/photoeditor_tab_unselected_pressed_holo">@drawable/com_android_contacts_photoeditor_tab_unselected_pressed_holo</item>
+	<item name="drawable/placeholder_camera">@drawable/com_android_gallery3d_placeholder_camera</item>
+	<item name="drawable/placeholder_empty">@drawable/com_android_gallery3d_placeholder_empty</item>
+	<item name="drawable/placeholder_locked">@drawable/com_android_gallery3d_placeholder_locked</item>
+	<item name="drawable/popup_full_dark">@drawable/framework_res_popup_full_dark</item>
+	<item name="drawable/progress_bg_holo_dark">@drawable/framework_res_progress_bg_holo_dark</item>
+	<item name="drawable/progress_primary_holo_dark">@drawable/framework_res_progress_primary_holo_dark</item>
+	<item name="drawable/progress_secondary_holo_dark">@drawable/framework_res_progress_secondary_holo_dark</item>
+	<item name="drawable/scrubber_knob">@drawable/framework_res_scrubber_control_normal_holo</item>
+	<item name="drawable/text_select_handle_left">@drawable/framework_res_text_select_handle_left</item>
+	<item name="drawable/text_select_handle_right">@drawable/framework_res_text_select_handle_right</item>
 	<item name="drawable/bg_camera_pattern">@drawable/com_android_camera_bg_camera_pattern</item>
 	<item name="drawable/bg_switcher">@drawable/com_android_camera_bg_switcher</item>
 	<item name="drawable/btn_camera_shutter_holo">@drawable/com_android_camera_btn_camera_shutter_holo</item>
