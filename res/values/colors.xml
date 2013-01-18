@@ -150,6 +150,9 @@
 	<color name="com_android_mms_popup_line">#ffaaaaaa</color>
 	<color name="com_android_mms_popup_background">#ff000000</color>
 <!--swype colors-->
+	<color name="trace_classic_orange">#b2ffffff</color>
+	<color name="trace_classic_orange_opaque">#ffffffff</color>
+	<color name="orange">#ffffffff</color>
 	<color name="trace_color">#ffffffff</color>
 	<color name="about_swype_links">#ffffffff</color>
 	<color name="word_inline_background_color">#ffffffff</color>

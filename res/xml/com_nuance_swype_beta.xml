@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 <!-- colors -->
+	<item name="orange">@color/orange</item>
+	<item name="trace_classic_orange">@color/trace_classic_orange</item>
+	<item name="trace_classic_orange_opaque">@color/trace_classic_orange_opaque</item>
 	<item name="color/trace_color">@color/trace_color</item>
 	<item name="color/about_swype_links">@color/about_swype_links</item>
 	<item name="color/word_inline_background_color">@color/word_inline_background_color</item>
