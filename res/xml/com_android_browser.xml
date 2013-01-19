@@ -5,6 +5,11 @@
 	<item name="color/qc_selected">@color/qc_selected</item>
 	<item name="color/qc_tab_nr">@color/qc_tab_nr</item>
 	<!-- png -->
+	<item name="drawable/nav_tab_bg">@drawable/com_android_browser_nav_tab_bg</item>
+
+	<item name="drawable/bg_browsertabs">@drawable/com_android_browser_bg_browsertabs</item>
+	<item name="drawable/bg_urlbar">@drawable/com_android_browser_bg_urlbar</item>
+	<item name="drawable/background_holo">@drawable/com_android_browser_browser_background_holo</item>
 	<item name="drawable/app_web_browser_sm">@drawable/com_android_browser_app_web_browser_sm</item>
 	<item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/com_android_browser_bookmarks_widget_thumb_selector_focused</item>
 	<item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_pressed</item>
