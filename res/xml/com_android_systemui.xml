@@ -329,6 +329,8 @@
 	<item name="drawable/stat_sys_battery_charge_circle">@drawable/com_android_systemui_stat_sys_battery_charge_circle</item>
 	<item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
 	<item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>
+	<item name="drawable/navbar_search_outerring">@drawable/com_android_systemui_navbar_search_outerring</item>
+	<item name="drawable/ic_sysbar_zoom">@drawable/com_android_systemui_ic_sysbar_zoom</item>
 
 	<!-- styles -->
 	<item name="style/TextAppearance.StatusBar.BatteryTextOnly">@style/TextAppearance.StatusBar.BatteryTextOnly</item>
