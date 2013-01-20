@@ -208,8 +208,6 @@
 	<item name="drawable/ic_sysbar_zoom_default">@drawable/com_android_systemui_ic_sysbar_zoom_default</item>
 	<item name="drawable/ic_sysbar_zoom_pressed">@drawable/com_android_systemui_ic_sysbar_zoom_pressed</item>
 	<item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
-	<item name="drawable/notify_panel_clock_bg_normal">@drawable/com_android_systemui_notify_panel_clock_bg_normal</item>
-	<item name="drawable/notify_panel_clock_bg_pressed">@drawable/com_android_systemui_notify_panel_clock_bg_pressed</item>
 	<item name="drawable/notify_panel_notify_bg">@drawable/com_android_systemui_notify_panel_notify_bg</item>
 	<item name="drawable/pocket_drag_pattern">@drawable/com_android_systemui_pocket_drag_pattern</item>
 	<item name="drawable/recents_bg_protect_tile">@drawable/com_android_systemui_recents_bg_protect_tile</item>
