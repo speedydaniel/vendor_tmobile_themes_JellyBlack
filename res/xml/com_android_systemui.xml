@@ -130,8 +130,6 @@
 	<item name="drawable/ic_sysbar_alarm">@drawable/com_android_systemui_ic_sysbar_alarm</item>
 	<item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
 	<item name="drawable/ic_sysbar_back_ime">@drawable/com_android_systemui_ic_sysbar_back_ime</item>
-	<item name="drawable/ic_sysbar_back_ime_default">@drawable/com_android_systemui_ic_sysbar_back_ime_default</item>
-	<item name="drawable/ic_sysbar_back_ime_pressed">@drawable/com_android_systemui_ic_sysbar_back_ime_pressed</item>
 	<item name="drawable/ic_sysbar_back_land">@drawable/com_android_systemui_ic_sysbar_back_land</item>
 	<item name="drawable/ic_sysbar_battery_0">@drawable/com_android_systemui_ic_sysbar_battery_0</item>
 	<item name="drawable/ic_sysbar_battery_100">@drawable/com_android_systemui_ic_sysbar_battery_100</item>
