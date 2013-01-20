@@ -50,7 +50,6 @@
     <dimen name="settings_panel_dragzone_min">100.0dip</dimen>
     <dimen name="small_font_size">48.0sp</dimen>
     <dimen name="status_bar_icon_drawing_size">18.0dip</dimen>
-    <dimen name="status_bar_icon_drawing_size">24.0dip</dimen>
     <dimen name="status_bar_icon_padding">0.0dip</dimen>
     <dimen name="status_bar_icon_size">25.0dip</dimen>
     <dimen name="status_bar_recents_app_description_text_size">14.0dip</dimen>
@@ -76,6 +75,5 @@
     <item type="dimen" name="navigation_bar_size">@*android:dimen/navigation_bar_height</item>
     <item type="dimen" name="notification_panel_min_height_frac">0.0%</item>
     <item type="dimen" name="settings_panel_dragzone_fraction">0.0%</item>
-    <item type="dimen" name="status_bar_icon_drawing_alpha">100.0%</item>
     <item type="dimen" name="status_bar_icon_drawing_alpha">65.0%</item>
-    <item type="dimen" name="status_bar_icon_size">@*android:dimen/status_bar_icon_size</item></resources>
+	</resources>
