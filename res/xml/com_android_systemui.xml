@@ -198,8 +198,6 @@
 	<item name="drawable/ic_sysbar_wifi_signal_null">@drawable/com_android_systemui_ic_sysbar_wifi_signal_null</item>
 	<item name="drawable/ic_sysbar_zoom_default">@drawable/com_android_systemui_ic_sysbar_zoom_default</item>
 	<item name="drawable/ic_sysbar_zoom_pressed">@drawable/com_android_systemui_ic_sysbar_zoom_pressed</item>
-	<item name="drawable/notify_panel_clock_bg_normal">@drawable/com_android_systemui_notify_panel_clock_bg_normal</item>
-	<item name="drawable/notify_panel_clock_bg_pressed">@drawable/com_android_systemui_notify_panel_clock_bg_pressed</item>
 	<item name="drawable/notify_panel_notify_bg">@drawable/com_android_systemui_notify_panel_notify_bg</item>
 	<item name="drawable/pocket_drag_pattern">@drawable/com_android_systemui_pocket_drag_pattern</item>
 	<item name="drawable/recents_bg_protect_tile">@drawable/com_android_systemui_recents_bg_protect_tile</item>
@@ -306,6 +304,8 @@
     <item name="drawable/bottom_divider_glow">@drawable/com_android_systemui_bottom_divider_glow</item>
 	<item name="drawable/intruder_window_bg">@drawable/intruder_window_bg</item>
 	<!-- drawables xml -->
+	<item name="drawable/notify_panel_clock_bg">@drawable/com_android_systemui_notify_panel_clock_bg</item>
+
 	<item name="drawable/qs_sys_battery">@drawable/com_android_systemui_qs_sys_battery</item>
 	<item name="drawable/qs_sys_battery_charging">@drawable/com_android_systemui_qs_sys_battery_charging</item>
 	<item name="drawable/qs_tile_background">@drawable/com_android_systemui_qs_tile_background</item>
