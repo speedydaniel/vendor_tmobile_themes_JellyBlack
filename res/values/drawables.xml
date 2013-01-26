@@ -6,7 +6,7 @@
 	<item type="drawable" name="notification_icon_area_smoke">#c5000000</item>
 	<item type="drawable" name="notification_item_background_color">#c5000000</item>
 	<item type="drawable" name="notification_item_background_color_pressed">#ff666666</item>
-	<item type="drawable" name="notification_item_background_legacy_color">#ff0C0C0C</item>
+	<item type="drawable" name="notification_item_background_legacy_color">#ffC0C0C0</item>
 	<item type="drawable" name="notification_number_text_color">#ffffffff</item>
 	<item type="drawable" name="notification_template_icon_bg">#c5000000</item>
 	<item type="drawable" name="notification_template_icon_low_bg">#c5000000</item>
