@@ -73,6 +73,13 @@
 	<color name="qc_normal">#e0CCCCCC</color>
 	<color name="qc_selected">#f0CCCCCC</color>
 	<color name="qc_tab_nr">#f0CCCCCC</color>
+	<!-- performance -->
+	<color name="pc_cat_gray">#ff191919</color>
+    <color name="pc_light_gray">#ff4d4d4d</color>
+    <color name="pc_gray">#ff000000</color>
+    <color name="pc_blue">#ffffffff</color>
+    <color name="pc_white">#ffffffff</color>
+    <color name="pc_black">#ff000000</color>
 
 <!-- contacts colors -->
 	<color name="snippet_text_color">#ffffffff</color>
