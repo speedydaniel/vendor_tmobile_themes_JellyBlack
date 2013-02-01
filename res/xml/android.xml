@@ -1184,7 +1184,7 @@
     <item name="style/TextAppearance.Holo.Widget.TextView.SpinnerItem">@style/TextAppearance.Holo.Widget.TextView.SpinnerItem</item>
     <item name="style/TextAppearance.Widget.DropDownHint">@style/TextAppearance.Widget.DropDownHint</item>
     <item name="style/TextAppearance.Widget.DropDownItem">@style/TextAppearance.Widget.DropDownItem</item>
-    <item name="style/Theme.Holo.Light">@style//Theme.Holo.Light</item>
+    <item name="style/Theme.Holo.Light">@style/Theme.Holo.Light</item>
     <item name="style/Theme.Holo.Light.Dialog">@style/Theme.Holo.Light.Dialog</item>
     <item name="style/Widget.CompoundButton">@style/Widget.CompoundButton</item>
 </resource-redirections>
