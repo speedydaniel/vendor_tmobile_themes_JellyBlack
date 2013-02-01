@@ -72,6 +72,59 @@
     <style name="Text">
         <item name="android:textColor">#ffffffff</item>
     </style>
+	<style name="Theme.Holo.Light" parent="@*android:style/Theme.Holo">
+        <item name="android:textColorPrimary">@color/holo_blue_dark</item>
+        <item name="android:textColorSecondary">@color/con_call_log_voicemail_status_text_color</item>
+        <item name="android:textColorPrimaryInverse">@color/white</item>
+        <item name="android:textColorSecondaryInverse">@color/com_android_mms_popup_line</item>
+        <item name="android:popupWindowStyle">@*android:style/Widget.Holo.PopupWindow</item>
+        <item name="android:textColor">@color/com_android_mms_popup_line</item>
+        <item name="android:popupMenuStyle">@*android:style/Widget.Holo.PopupMenu</item>
+        <item name="android:editTextColor">@color/holo_blue_dark</item>
+        <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
+        <item name="android:widgetCategory">home_screen|keyguard</item>
+    </style>
+    <style name="Theme.Holo.Light.Dialog" parent="@*android:style/Theme.Holo.Dialog">
+        <item name="android:textAppearance">@*android:style/TextAppearance.Holo</item>
+        <item name="android:textAppearanceInverse">@*android:style/TextAppearance.Holo.Inverse</item>
+        <item name="android:textColorPrimary">@color/holo_blue_light</item>
+        <item name="android:textColorSecondary">@color/holo_blue_dark</item>
+        <item name="android:editTextColor">@color/holo_blue_light</item>
+        <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
+    </style>
+    <style name="Theme.Holo.Light.DarkActionBar" parent="@style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:actionMenuTextColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Widget.CompoundButton" parent="@*android:style/Widget.CompoundButton">
+        <item name="android:textColor">@color/holo_blue_dark</item>
+    </style>
+    <style name="TextAppearance.Widget.DropDownHint" parent="@*android:style/TextAppearance.Widget">
+        <item name="android:textColor">@color/holo_blue_dark</item>
+    </style>
+    <style name="TextAppearance.Widget.DropDownItem" parent="@*android:style/TextAppearance.Widget">
+        <item name="android:textColor">@color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.DropDownHint" parent="@*android:style/TextAppearance.Holo.Widget">
+        <item name="android:textColor">@color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.DropDownItem" parent="@*android:style/TextAppearance.Holo.Widget">
+        <item name="android:textColor">@color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.TextView.SpinnerItem" parent="@*android:style/TextAppearance.Holo.Widget.TextView">
+        <item name="android:textColor">@color/con_call_log_voicemail_status_text_color</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.EditText" parent="@*android:style/TextAppearance.Holo.Widget">
+        <item name="android:textColor">@color/con_call_log_voicemail_status_text_color</item>
+        <item name="android:textColorHint">@color/con_call_log_voicemail_status_text_color</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.PopupMenu" parent="@*android:style/TextAppearance.Holo.Widget.PopupMenu">
+        <item name="android:textColor">@color/con_call_log_voicemail_status_text_color</item>
+    </style>
+    <style name="TextAppearance.Holo.DialogWindowTitle" parent="@*android:style/TextAppearance.Holo">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+    </style>
     <style name="Theme.QuickContact" parent="@*android:style/Theme.Holo">
         <item name="android:windowBackground">@*android:color/black</item>
         <item name="android:windowFrame">@null</item>
@@ -97,6 +150,10 @@
     </style>
     <style name="ContactsActionBarTabView" parent="@*android:style/Widget.Holo.ActionBar.TabView">
         <item name="android:background">@drawable/com_android_contacts_action_bar_tab</item>
+    </style>
+	<style name="PeopleNavigationDropDownTextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/holo_orange_dark</item>
     </style>
     <style name="ContactsActionBarTheme" parent="@*android:style/Theme.Holo">
         <item name="android:dropDownListViewStyle">@style/ListViewDropdownStyle</item>
@@ -124,7 +181,7 @@
         <item name="android:windowCloseOnTouchOutside">true</item>
     </style>
     <style name="Theme.PhotoSelector" parent="@*android:style/Theme.Holo">
-        <item name="android:windowBackground">@*android:color/black</item>
+        <item name="android:windowBackground">@*android:color/transparent</item>
         <item name="android:windowFrame">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
