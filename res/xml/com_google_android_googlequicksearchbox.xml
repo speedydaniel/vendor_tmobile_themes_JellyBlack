@@ -6,4 +6,5 @@
 	<item name="drawable/search_bg">@drawable/search_bg</item>
 	<item name="drawable/search_bg_shadow">@drawable/search_bg_shadow</item>
 	<item name="drawable/widget_search_frame">@drawable/widget_search_frame</item>
+	<item name="drawable/ic_google_small_dark_pressed">@drawable/ic_google_small_dark_pressed</item>
 </resource-redirections>
