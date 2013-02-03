@@ -39,6 +39,10 @@
 	<item name="color/perms_dangerous_perm_color">@color/perms_dangerous_perm_color</item>
 	<item name="color/search_url_text_normal">@color/search_url_text_normal</item>
 	<item name="color/suggestion_highlight_text">@color/suggestion_highlight_text</item>
+    <item name="color/keyguard_avatar_frame_pressed_color">@color/holo_blue_light</item>
+    <item name="color/primary_text_holo_light">@color/holo_blue_dark</item>
+    <item name="color/secondary_text_holo_light">@color/holo_blue_dark</item>
+    <item name="color/tertiary_text_holo_light">@color/holo_blue_dark</item>
 		<!-- divider -->
 	<item name="drawable/dialog_divider_horizontal_holo_dark">@drawable/framework_res_dialog_divider_horizontal_holo_dark</item>
 	<item name="drawable/dialog_divider_horizontal_holo_light">@drawable/framework_res_dialog_divider_horizontal_holo_light</item>
@@ -1186,7 +1190,6 @@
     <item name="style/TextAppearance.Holo.Widget.TextView.SpinnerItem">@style/TextAppearance.Holo.Widget.TextView.SpinnerItem</item>
     <item name="style/TextAppearance.Widget.DropDownHint">@style/TextAppearance.Widget.DropDownHint</item>
     <item name="style/TextAppearance.Widget.DropDownItem">@style/TextAppearance.Widget.DropDownItem</item>
-    <item name="style/Theme.Holo.Light">@style/Theme.Holo.Light</item>
     <item name="style/Theme.Holo.Light.Dialog">@style/Theme.Holo.Light.Dialog</item>
     <item name="style/Widget.CompoundButton">@style/Widget.CompoundButton</item>
 </resource-redirections>
