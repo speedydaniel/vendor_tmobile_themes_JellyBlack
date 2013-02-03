@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/defaultart">@drawable/defaultart</item>
-	<item name="drawable/defaultart_playall">@drawable/defaultart_playall</item>
-	<item name="drawable/defaultart_playlist">@drawable/defaultart_playlist</item>
-	<item name="drawable/defaultart_shuffle">@drawable/defaultart_shuffle</item>
-	<item name="drawable/glossy_overlay">@drawable/glossy_overlay</item>
-	<item name="drawable/ic_album_loading">@drawable/ic_album_loading</item>
-	<item name="drawable/list_selector_background_focused">@drawable/list_selector_background_focused</item>
-	<item name="drawable/list_focused_holo">@drawable/list_focused_holo</item>
-	<item name="drawable/list_longpressed_holo">@drawable/list_longpressed_holo</item>
-	<item name="drawable/list_pressed_holo_dark">@drawable/list_pressed_holo</item>
-	<item name="drawable/list_selector_activated_holo_dark">@drawable/list_selector_activated_holo_dark</item>
-	<item name="drawable/list_selector_background">@drawable/list_selector_holo_dark</item>
-	<item name="drawable/list_selector_background_focused">@drawable/list_selector_background_focused</item>
-	<item name="drawable/list_selector_background_transition_holo_dark">@drawable/list_selector_background_transition_holo_dark</item>
+	<item name="drawable/playlist_tile_drag">@drawable/com_google_android_music_playlist_tile_drag</item>
+	<item name="drawable/playlist_tile_longpress">@drawable/com_google_android_music_playlist_tile_longpress</item>
+	<item name="drawable/playlist_tile_pressed">@drawable/com_google_android_music_playlist_tile_pressed</item>
+	<item name="drawable/playlist_tile_selected">@drawable/com_google_android_music_playlist_tile_selected</item>
 	<item name="drawable/ab_bottom_transparent_dark_holo">@drawable/com_google_android_music_ab_bottom_transparent_dark_holo</item>
 	<item name="drawable/ab_transparent_dark_holo">@drawable/com_google_android_music_ab_transparent_dark_holo</item>
 	<item name="drawable/album_frame_dim_normal">@drawable/com_google_android_music_album_frame_dim_normal</item>
@@ -31,6 +21,7 @@
 	<item name="drawable/appwidget_inner_press_c">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_c_holo</item>
 	<item name="drawable/appwidget_inner_press_l">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_l_holo</item>
 	<item name="drawable/appwidget_inner_press_r">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_r_holo</item>
+	<item name="drawable/bkgnd">@drawable/bkgnd</item>
 	<item name="drawable/btn_cling_normal">@drawable/com_google_android_music_btn_cling_normal</item>
 	<item name="drawable/btn_cling_pressed">@drawable/com_google_android_music_btn_cling_pressed</item>
 	<item name="drawable/btn_collapse_group_focused_holo_dark">@drawable/com_google_android_music_btn_collapse_group_focused_holo_dark</item>
@@ -76,6 +67,10 @@
 	<item name="drawable/btn_repeat_once_on_jb_dark">@drawable/com_google_android_music_btn_repeat_once_on_jb_dark</item>
 	<item name="drawable/btn_shuffle_on_jb_dark">@drawable/com_google_android_music_btn_shuffle_on_jb_dark</item>
 	<item name="drawable/cling_music">@drawable/com_google_android_music_cling_music</item>
+	<item name="drawable/defaultart">@drawable/defaultart</item>
+	<item name="drawable/defaultart_playall">@drawable/defaultart_playall</item>
+	<item name="drawable/defaultart_playlist">@drawable/defaultart_playlist</item>
+	<item name="drawable/defaultart_shuffle">@drawable/defaultart_shuffle</item>
 	<item name="drawable/expander_btn_close_down_focused_holo_dark">@drawable/com_google_android_music_expander_btn_close_down_focused_holo_dark</item>
 	<item name="drawable/expander_btn_close_right_focused_holo_dark">@drawable/com_google_android_music_expander_btn_close_right_focused_holo_dark</item>
 	<item name="drawable/expander_btn_open_left_focused_holo_dark">@drawable/com_google_android_music_expander_btn_open_left_focused_holo_dark</item>
@@ -88,6 +83,8 @@
 	<item name="drawable/fastscroll_thumb_horz_pressed_holo">@drawable/com_google_android_music_fastscroll_thumb_horz_pressed_holo</item>
 	<item name="drawable/fastscroll_thumb_pressed_holo">@drawable/com_google_android_music_fastscroll_thumb_pressed_holo</item>
 	<item name="drawable/fastscroll_thumb_pressed_holo_horizontal">@drawable/com_google_android_music_fastscroll_thumb_pressed_holo_horizontal</item>
+	<item name="drawable/glossy_overlay">@drawable/glossy_overlay</item>
+	<item name="drawable/ic_album_loading">@drawable/ic_album_loading</item>
 	<item name="drawable/ic_media_route_on_holo_dark">@drawable/com_google_android_music_ic_media_route_on_holo_dark</item>
 	<item name="drawable/ic_media_route_on_holo_light">@drawable/com_google_android_music_ic_media_route_on_holo_light</item>
 	<item name="drawable/ic_playon_holo_dark_on">@drawable/com_google_android_music_ic_playon_holo_dark_on</item>
@@ -99,7 +96,14 @@
 	<item name="drawable/indicator_playing_peak_meter_5">@drawable/com_google_android_music_indicator_playing_peak_meter_5</item>
 	<item name="drawable/list_divider_holo_dark">@drawable/com_google_android_music_list_divider_holo_dark</item>
 	<item name="drawable/list_divider_horizontal">@drawable/com_google_android_music_list_divider_horizontal</item>
+	<item name="drawable/list_focused_holo">@drawable/list_focused_holo</item>
+	<item name="drawable/list_longpressed_holo">@drawable/list_longpressed_holo</item>
+	<item name="drawable/list_pressed_holo_dark">@drawable/list_pressed_holo</item>
+	<item name="drawable/list_selector_activated_holo_dark">@drawable/list_selector_activated_holo_dark</item>
+	<item name="drawable/list_selector_background">@drawable/list_selector_holo_dark</item>
 	<item name="drawable/list_selector_background_focused">@drawable/com_google_android_music_list_selector_background_focused</item>
+	<item name="drawable/list_selector_background_focused">@drawable/list_selector_background_focused</item>
+	<item name="drawable/list_selector_background_transition_holo_dark">@drawable/list_selector_background_transition_holo_dark</item>
 	<item name="drawable/list_selector_pressed">@drawable/com_google_android_music_list_selector_pressed</item>
 	<item name="drawable/list_selector_pressed">@drawable/list_selector_pressed</item>
 	<item name="drawable/menu_dropdown_panel_holo_dark">@drawable/com_google_android_music_menu_dropdown_panel_holo_dark</item>
@@ -111,8 +115,6 @@
 	<item name="drawable/pageseparator">@drawable/com_google_android_music_pageseparator</item>
 	<item name="drawable/play_controls_music_widget_focused_holo">@drawable/com_google_android_music_play_controls_music_widget_focused_holo</item>
 	<item name="drawable/play_controls_music_widget_pressed_holo">@drawable/com_google_android_music_play_controls_music_widget_pressed_holo</item>
-	<item name="drawable/playlist_tile_drag">@drawable/com_google_android_music_playlist_tile_drag</item>
-	<item name="drawable/playlist_tile_selected">@drawable/com_google_android_music_playlist_tile_selected</item>
 	<item name="drawable/popup">@drawable/com_google_android_music_popup</item>
 	<item name="drawable/preview">@drawable/com_google_android_music_preview</item>
 	<item name="drawable/scrubber_control_selector_holo">@drawable/framework_res_scrubber_control_selector_holo</item>
@@ -146,8 +148,7 @@
     <item name="drawable/scrubber_primary_holo">@drawable/framework_res_scrubber_primary_holo</item>
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/framework_res_scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/scrubber_secondary_holo">@drawable/framework_res_scrubber_secondary_holo</item>
-    <item name="drawable/scrubber_track_holo_dark">@drawable/framework_res_scrubber_track_holo_dark</item>
-	<item name="color/action_bar_selected_bg">@color/action_bar_selected_bg</item>
+    <item name="drawable/scrubber_track_holo_dark">@drawable/framework_res_scrubber_track_holo_dark</item>	<item name="color/action_bar_selected_bg">@color/action_bar_selected_bg</item>
     <item name="color/appwidget_text">@color/white</item>
     <item name="color/appwidget_text_primary">@color/white</item>
     <item name="color/button_normal">#88000000</item>
