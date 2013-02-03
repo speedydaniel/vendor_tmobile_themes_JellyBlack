@@ -65,6 +65,12 @@
 	<item name="drawable/list_section_divider_holo_light">@drawable/framework_res_list_section_divider_holo_light</item>
 	<item name="drawable/numberpicker_selection_divider">@drawable/framework_res_numberpicker_selection_divider</item>
 	<!-- framework xml drawables -->
+	<item name="drawable/list_selector_background">@drawable/list_selector_background</item>
+	<item name="drawable/list_selector_background_transition">@drawable/list_selector_background_transition</item>
+	<item name="drawable/list_selector_background_transition_holo_dark">@drawable/list_selector_background_transition_holo_dark</item>
+	<item name="drawable/list_selector_background_transition_holo_light">@drawable/list_selector_background_transition_holo_light</item>
+	<item name="drawable/list_selector_holo_black">@drawable/list_selector_holo_black</item>
+	<item name="drawable/list_selector_holo_dark">@drawable/list_selector_holo_dark</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
 	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
@@ -717,15 +723,11 @@
 	<item name="drawable/list_selector_activated_holo_light">@drawable/framework_res_list_selector_activated_holo_light</item>
 	<item name="drawable/list_selector_background_default">@drawable/framework_res_list_selector_background_default</item>
 	<item name="drawable/list_selector_background_default_light">@drawable/framework_res_list_selector_background_default_light</item>
-	<item name="drawable/list_selector_background_disabled">@drawable/framework_res_list_selector_background_disabled</item>
 	<item name="drawable/list_selector_background_disabled_light">@drawable/framework_res_list_selector_background_disabled_light</item>
-	<item name="drawable/list_selector_background_focus">@drawable/framework_res_list_selector_background_focus</item>
 	<item name="drawable/list_selector_background_focused">@drawable/framework_res_list_selector_background_focused</item>
 	<item name="drawable/list_selector_background_focused_light">@drawable/framework_res_list_selector_background_focused_light</item>
 	<item name="drawable/list_selector_background_focused_selected">@drawable/framework_res_list_selector_background_focused_selected</item>
-	<item name="drawable/list_selector_background_longpress">@drawable/framework_res_list_selector_background_longpress</item>
 	<item name="drawable/list_selector_background_longpress_light">@drawable/framework_res_list_selector_background_longpress_light</item>
-	<item name="drawable/list_selector_background_pressed">@drawable/framework_res_list_selector_background_pressed</item>
 	<item name="drawable/list_selector_background_pressed_light">@drawable/framework_res_list_selector_background_pressed_light</item>
 	<item name="drawable/list_selector_background_selected">@drawable/framework_res_list_selector_background_selected</item>
 	<item name="drawable/list_selector_background_selected_light">@drawable/framework_res_list_selector_background_selected_light</item>
