@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/dialog_black">@drawable/framework_res_dialog_full_holo_dark</item>
+	<item name="color/list_item_checked_color">@color/holo_blue_dark</item>
+	<item name="drawable/checkbox_checked_black">@drawable/pl_solidexplorer_checkbox_checked_black</item>
+	<item name="drawable/checkbox_checked_disabled_black">@drawable/pl_solidexplorer_checkbox_checked_disabled_black</item>
+	<item name="drawable/checkbox_unchecked_black">@drawable/pl_solidexplorer_checkbox_unchecked_black</item>
+	<item name="drawable/checkbox_unchecked_disabled_black">@drawable/pl_solidexplorer_checkbox_unchecked_disabled_black</item>
 	<item name="drawable/computer_connected">@drawable/pl_solidexplorer_computer_connected</item>
 	<item name="drawable/folder">@drawable/pl_solidexplorer_folder</item>
 	<item name="drawable/folder_link">@drawable/pl_solidexplorer_folder_link</item>
 	<item name="drawable/folder_open">@drawable/pl_solidexplorer_folder_open</item>
+	<item name="drawable/indicator_sel_black">@drawable/pl_solidexplorer_indicator_sel_black</item>
+	<item name="drawable/list_scroll_thumb_black">@drawable/pl_solidexplorer_list_scroll_thumb_black</item>
 	<item name="drawable/menu_bookmarks_black">@drawable/pl_solidexplorer_menu_bookmarks_black</item>
 	<item name="drawable/menu_check_black">@drawable/pl_solidexplorer_menu_check_black</item>
 	<item name="drawable/menu_close_black">@drawable/pl_solidexplorer_menu_close_black</item>
@@ -52,7 +60,6 @@
 	<item name="drawable/menu_warning_black">@drawable/pl_solidexplorer_menu_warning_black</item>
 	<item name="drawable/menu_wifi_black">@drawable/pl_solidexplorer_menu_wifi_black</item>
 	<item name="drawable/notify_panel_notification_icon_bg">@drawable/pl_solidexplorer_notify_panel_notification_icon_bg</item>
-	<item name="drawable/panel_separator_black">@drawable/pl_solidexplorer_panel_separator_black</item>
 	<item name="drawable/pl_solidexplorer_additional_bottom_bar_black">@drawable/pl_solidexplorer_pl_solidexplorer_additional_bottom_bar_black</item>
 	<item name="drawable/pl_solidexplorer_bottom_bar_black">@drawable/pl_solidexplorer_pl_solidexplorer_bottom_bar_black</item>
 	<item name="drawable/pl_solidexplorer_bottom_bar_land_black">@drawable/pl_solidexplorer_pl_solidexplorer_bottom_bar_land_black</item>
@@ -69,7 +76,10 @@
 	<item name="drawable/pl_solidexplorer_popup_arrow_up_black">@drawable/pl_solidexplorer_pl_solidexplorer_popup_arrow_up_black</item>
 	<item name="drawable/pl_solidexplorer_popup_black">@drawable/pl_solidexplorer_pl_solidexplorer_popup_black</item>
 	<item name="drawable/pl_solidexplorer_progress_bar_p_light">@drawable/pl_solidexplorer_pl_solidexplorer_progress_bar_p_light</item>
-	<item name="drawable/progress_bar_bg_black">@drawable/pl_solidexplorer_progress_bar_bg_black</item>
+	<item name="drawable/radio_button_checked_black">@drawable/pl_solidexplorer_radio_button_checked_black</item>
+	<item name="drawable/radio_button_checked_pressed_black">@drawable/pl_solidexplorer_radio_button_checked_pressed_black</item>
+	<item name="drawable/radio_button_unchecked_black">@drawable/pl_solidexplorer_radio_button_unchecked_black</item>
+	<item name="drawable/radio_button_unchecked_pressed_black">@drawable/pl_solidexplorer_radio_button_unchecked_pressed_black</item>
 	<item name="drawable/refresh_black">@drawable/pl_solidexplorer_refresh_black</item>
 	<item name="drawable/spinner_normal_black">@drawable/pl_solidexplorer_spinner_normal_black</item>
 	<item name="drawable/spinner_pressed_black">@drawable/pl_solidexplorer_spinner_pressed_black</item>
@@ -81,27 +91,15 @@
 	<item name="drawable/toolbar_menu_black">@drawable/pl_solidexplorer_toolbar_menu_black</item>
 	<item name="drawable/toolbar_new_black">@drawable/pl_solidexplorer_toolbar_new_black</item>
 	<item name="drawable/toolbar_organize_black">@drawable/pl_solidexplorer_toolbar_organize_black</item>
-	<item name="drawable/dialog_black">@drawable/framework_res_dialog_full_holo_dark</item>
     <item name="color/background_black">@color/black</item>
     <item name="color/black">@color/black</item>
     <item name="color/header_rect_black">@color/black</item>
     <item name="color/header_rect_light">@color/holo_blue_light</item>
     <item name="color/link_text_color">@color/link_text_color</item>
+    <item name="color/list_item_pressed_color">@color/holo_blue_dark</item>
     <item name="color/list_item_selected_black">@color/holo_blue_dark</item>
     <item name="color/list_item_stroke_color">@color/holo_green_dark</item>
     <item name="color/pager_tabs_bg_color">@color/black</item>
-	<item name="color/list_item_checked_color">@color/holo_blue_dark</item>
-    <item name="color/list_item_pressed_color">@color/holo_blue_dark</item>
     <item name="color/pager_tabs_indicator_color">@color/holo_green_dark</item>
     <item name="color/shadow">@color/black</item>
-    <item name="color/title_bg">@color/black</item>
-	<item name="drawable/checkbox_checked_black">@drawable/pl_solidexplorer_checkbox_checked_black</item>
-	<item name="drawable/checkbox_checked_disabled_black">@drawable/pl_solidexplorer_checkbox_checked_disabled_black</item>
-	<item name="drawable/checkbox_unchecked_black">@drawable/pl_solidexplorer_checkbox_unchecked_black</item>
-	<item name="drawable/checkbox_unchecked_disabled_black">@drawable/pl_solidexplorer_checkbox_unchecked_disabled_black</item>
-	<item name="drawable/list_scroll_thumb_black">@drawable/pl_solidexplorer_list_scroll_thumb_black</item>
-	<item name="drawable/radio_button_checked_black">@drawable/pl_solidexplorer_radio_button_checked_black</item>
-	<item name="drawable/radio_button_checked_pressed_black">@drawable/pl_solidexplorer_radio_button_checked_pressed_black</item>
-	<item name="drawable/radio_button_unchecked_black">@drawable/pl_solidexplorer_radio_button_unchecked_black</item>
-	<item name="drawable/radio_button_unchecked_pressed_black">@drawable/pl_solidexplorer_radio_button_unchecked_pressed_black</item>
-</resource-redirections>
+    <item name="color/title_bg">@color/black</item></resource-redirections>
