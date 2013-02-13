@@ -4,15 +4,15 @@
 	<color name="action_bar_selected_bg">#7affffff</color>
 	<color name="keyHintLetterColor">#ffffffff</color>
 	<color name="holo_blue_light">#ff969696</color>
-	<color name="holo_blue_dark">#ff666666</color>
+	<color name="holo_blue_dark">#ff7C7C7C</color>
 	<color name="holo_blue_bright">#ff969696</color>
 	<color name="tab_bottom_border_active">#ffffffff</color>
 	<color name="holo_green_light">#ffaaaaaa</color>
-	<color name="holo_green_dark">#ff666666</color>
+	<color name="holo_green_dark">#ff7C7C7C</color>
 	<color name="holo_red_light">#ffFF0000</color>
 	<color name="holo_red_dark">#ffFF0000</color>
 	<color name="holo_orange_light">#ffaaaaaa</color>
-	<color name="holo_orange_dark">#ff666666</color>
+	<color name="holo_orange_dark">#ff7C7C7C</color>
 	<color name="holo_purple">#ffFF00DC</color>
 	<color name="perms_dangerous_perm_color">#ffffffff</color>
 	<color name="search_url_text_normal">#ff404040</color>
@@ -30,7 +30,7 @@
 	<color name="link_text_holo_light">#ff222222</color>
 	<color name="lockscreen_clock_background">#cc000000</color>
 	<color name="link_text_dark">#ff404040</color>
-	<color name="link_text_light">#ff666666</color>
+	<color name="link_text_light">#ff7C7C7C</color>
 	<color name="group_button_dialog_pressed_holo_dark">#46ffffff</color>
 	<color name="group_button_dialog_focused_holo_dark">#26222222</color>
 	<color name="group_button_dialog_focused_holo_light">#46222222</color>
@@ -39,7 +39,7 @@
 	<color name="xda_background">#ff000000</color>
 	<color name="xda_font">#ffffffff</color>
 	<color name="voice_color_widget_text_unread">#ffffffff</color>
-	<color name="voice_color_widget_text_read">#ff666666</color>
+	<color name="voice_color_widget_text_read">#ff7C7C7C</color>
 	<color name="voice_color_widget_background_unread">#cc222222</color>
 	<color name="voice_color_widget_background_read">#cc000000</color>
 	<color name="voice_color_widget_date_text">#ffffffff</color>
@@ -59,7 +59,7 @@
 	<color name="share_icon_background">#80000000</color>
 	<color name="indicator_background">#40000000</color>
 	<color name="popup_background">#ff000000</color>
-	<color name="pano_custom_dialog_background">#ff666666</color>
+	<color name="pano_custom_dialog_background">#ff7C7C7C</color>
 	<color name="pano_progress_empty">#ff2e2e2e</color>
 	<color name="pano_progress_done">#ff333333</color>
 	<color name="pano_progress_indication_fast">#ffff2222</color>

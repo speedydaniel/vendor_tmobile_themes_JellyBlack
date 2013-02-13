@@ -231,4 +231,11 @@
         <item name="android:textSize">18.0dip</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
+	<style name="com_google_android_googlequicksearchbox_Theme.Velvet" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowSoftInputMode">stateUnchanged|adjustPan</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
 </resources>
