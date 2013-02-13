@@ -81,6 +81,7 @@
 	<item name="drawable/toolbar_menu_black">@drawable/pl_solidexplorer_toolbar_menu_black</item>
 	<item name="drawable/toolbar_new_black">@drawable/pl_solidexplorer_toolbar_new_black</item>
 	<item name="drawable/toolbar_organize_black">@drawable/pl_solidexplorer_toolbar_organize_black</item>
+	<item name="drawable/dialog_black">@drawable/framework_res_dialog_full_holo_dark</item>
     <item name="color/background_black">@color/black</item>
     <item name="color/black">@color/black</item>
     <item name="color/header_rect_black">@color/black</item>
