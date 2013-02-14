@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="style/Theme.TextView">@style/com_skype_raider_Theme.TextView</item>
     <item name="style/Theme.TextView.Small.White">@style/com_skype_raider_Theme.TextView.Small.White</item>
     <item name="color/chat_dialog_main_background">@color/black</item>
     <item name="color/chat_dialog_main_background">@color/blue</item>

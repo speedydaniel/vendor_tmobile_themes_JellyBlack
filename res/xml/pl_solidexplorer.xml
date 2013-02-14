@@ -77,6 +77,7 @@
 	<item name="drawable/popup_arrow_up_black">@drawable/pl_solidexplorer_popup_arrow_up_black</item>
 	<item name="drawable/popup_black">@drawable/pl_solidexplorer_popup_black</item>
 	<item name="drawable/progress_bar_p_light">@drawable/pl_solidexplorer_progress_bar_p_light</item>
+	<item name="drawable/progress_bar_black">@drawable/pl_solidexplorer_progress_bar_black</item>
 	<item name="drawable/radio_button_checked_black">@drawable/pl_solidexplorer_radio_button_checked_black</item>
 	<item name="drawable/radio_button_checked_pressed_black">@drawable/pl_solidexplorer_radio_button_checked_pressed_black</item>
 	<item name="drawable/radio_button_unchecked_black">@drawable/pl_solidexplorer_radio_button_unchecked_black</item>
