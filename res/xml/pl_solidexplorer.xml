@@ -70,6 +70,7 @@
 	<item name="drawable/indicator_sel_black">@drawable/pl_solidexplorer_indicator_sel_black</item>
 	<item name="drawable/list_checked">@drawable/pl_solidexplorer_list_checked</item>
 	<item name="drawable/list_pressed">@drawable/pl_solidexplorer_list_pressed</item>
+	<item name="drawable/tran_button_pressed">@drawable/pl_solidexplorer_tran_button_pressed</item>
 	<item name="drawable/path_separator_black">@drawable/pl_solidexplorer_path_separator_black</item>
 	<item name="drawable/popup_arrow_down_black">@drawable/pl_solidexplorer_popup_arrow_down_black</item>
 	<item name="drawable/popup_arrow_right_black">@drawable/pl_solidexplorer_popup_arrow_right_black</item>
@@ -95,7 +96,7 @@
     <item name="color/black">@color/black</item>
     <item name="color/header_rect_black">@color/black</item>
     <item name="color/header_rect_light">@color/holo_blue_light</item>
-    <item name="color/link_text_color">@color/link_text_color</item>
+    <item name="color/link_text_color">@color/holo_blue_light</item>
     <item name="color/list_item_pressed_color">@color/holo_blue_dark</item>
     <item name="color/list_item_selected_black">@color/holo_blue_dark</item>
     <item name="color/list_item_stroke_color">@color/holo_green_dark</item>

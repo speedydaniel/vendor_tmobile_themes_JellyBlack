@@ -21,7 +21,7 @@
 	<item name="drawable/appwidget_inner_press_c">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_c_holo</item>
 	<item name="drawable/appwidget_inner_press_l">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_l_holo</item>
 	<item name="drawable/appwidget_inner_press_r">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_r_holo</item>
-	<item name="drawable/bkgnd">@drawable/bkgnd</item>
+	<item name="drawable/bkgnd">@drawable/com_google_android_music_bkgnd</item>
 	<item name="drawable/btn_cling_normal">@drawable/com_google_android_music_btn_cling_normal</item>
 	<item name="drawable/btn_cling_pressed">@drawable/com_google_android_music_btn_cling_pressed</item>
 	<item name="drawable/btn_collapse_group_focused_holo_dark">@drawable/com_google_android_music_btn_collapse_group_focused_holo_dark</item>
