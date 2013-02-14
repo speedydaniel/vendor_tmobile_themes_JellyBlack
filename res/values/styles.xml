@@ -238,4 +238,12 @@
         <item name="android:windowSoftInputMode">stateUnchanged|adjustPan</item>
         <item name="android:windowActionBar">false</item>
     </style>
+	<style name="com_skype_raider_Theme.TextView.Small.White" parent="@style/com_skype_raider_Theme.TextView">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="com_skype_raider_Theme.TextView" parent="@*android:style/Widget.TextView">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
 </resources>
