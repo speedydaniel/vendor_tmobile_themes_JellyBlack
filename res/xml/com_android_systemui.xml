@@ -47,6 +47,10 @@
 	<item name="drawable/ic_qs_battery_charge_85">@drawable/com_android_systemui_ic_qs_battery_charge_85</item>
 	<item name="drawable/ic_qs_battery_neutral">@drawable/com_android_systemui_ic_qs_battery_neutral</item>
 	<item name="drawable/ic_qs_battery_unknown">@drawable/com_android_systemui_ic_qs_battery_unknown</item>
+	<item name="drawable/ic_qs_saved">@drawable/com_android_systemui_ic_qs_saved</item>
+	<item name="drawable/ic_qs_recording">@drawable/com_android_systemui_ic_qs_recording</item>
+	<item name="drawable/ic_qs_quickrecord">@drawable/com_android_systemui_ic_qs_quickrecord</item>
+	<item name="drawable/ic_qs_playing">@drawable/com_android_systemui_ic_qs_playing</item>
 	<item name="drawable/ic_qs_bluetooth_neutral">@drawable/com_android_systemui_ic_qs_bluetooth_neutral</item>
 	<item name="drawable/ic_qs_bluetooth_not_connected">@drawable/com_android_systemui_ic_qs_bluetooth_not_connected</item>
 	<item name="drawable/ic_qs_bluetooth_off">@drawable/com_android_systemui_ic_qs_bluetooth_off</item>
