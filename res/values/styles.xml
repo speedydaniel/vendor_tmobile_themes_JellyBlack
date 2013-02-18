@@ -215,6 +215,30 @@
     <style name="com_android_mms_NotificationSubjectText">
         <item name="android:textColor">#ffefefef</item>
     </style>
+	<style name="UnifiedEmailTheme" parent="@*android:style/Theme.Holo">
+        <item name="android:listViewWhiteStyle">@*android:style/Widget.Holo.ListView</item>
+        <item name="android:actionDropDownStyle">@style/PlainSpinnerDropdown</item>
+    </style>
+    <style name="PlainSpinnerDropdown" parent="@*android:style/Widget.Holo.Spinner">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="ListViewWhiteCustom" parent="@*android:style/Widget.Holo.ListView" />
+    <style name="PlainActionBarStyle" parent="@*android:style/Widget.Holo.ActionBar.Solid" />
+    <style name="WaitFragmentTitle" parent="@*android:style/Widget.Holo.TextView">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+    </style>
+    <style name="ComposeFieldLayout" parent="@*android:style/Widget.Holo.EditText">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
 	<style name="small_bold">
         <item name="android:textSize">@dimen/small_font_size</item>
         <item name="android:fontFamily">sans-serif-thin</item>
