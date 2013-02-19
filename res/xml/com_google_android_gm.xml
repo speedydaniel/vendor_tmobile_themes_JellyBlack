@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<item name="color/accountInfoColor">@color/white</item>
-	<item name="color/actionbar_secondary">@color/white</item>
+	<item name="color/actionbar_secondary">#ffFF0000</item>
 	<item name="color/animating_item_background_color">#7f0099cc</item>
 	<item name="color/attachment_bg_color">#ff000000</item>
 	<item name="color/attachment_image_background_color">#ffe5e5e5</item>
