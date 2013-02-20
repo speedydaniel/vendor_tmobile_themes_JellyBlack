@@ -180,6 +180,8 @@
 	<item name="style/PlainActionBarStyle">@style/PlainActionBarStyle</item>
 	<item name="style/UnifiedEmailTheme">@style/UnifiedEmailTheme</item>
 	<item name="style/WaitFragmentTitle">@style/WaitFragmentTitle</item>
+	<item name="style/AccountSpinnerAnchorTextPrimary">@style/AccountSpinnerAnchorTextPrimary</item>
+    <item name="style/AccountSpinnerAnchorTextSecondary">@style/AccountSpinnerAnchorTextSecondary</item>
 	<item name="style/AccountSpinnerDropdownTextPrimary">@style/AccountSpinnerDropdownTextPrimary</item>
 	<item name="style/AccountSpinnerDropdownTextSecondary">@style/AccountSpinnerDropdownTextSecondary</item>
 	<item name="style/ComposeFieldLinearLayout">@style/ComposeFieldLinearLayout</item>

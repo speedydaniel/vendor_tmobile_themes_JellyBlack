@@ -99,6 +99,16 @@
     <style name="Widget.CompoundButton" parent="@*android:style/Widget.CompoundButton">
         <item name="android:textColor">@color/holo_blue_dark</item>
     </style>
+	<style name="AccountSpinnerAnchorTextPrimary" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+		<item name="android:textColor">@color/holo_blue_dark</item>
+	</style>
+	<style name="AccountSpinnerDropdownTextPrimary">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/holo_blue_dark</item>
+    </style>
+    <style name="AccountSpinnerAnchorTextSecondary" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+		<item name="android:textColor">@color/holo_blue_dark</item>
+	</style>
     <style name="TextAppearance.Widget.DropDownHint" parent="@*android:style/TextAppearance.Widget">
         <item name="android:textColor">@color/holo_blue_dark</item>
     </style>
