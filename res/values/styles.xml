@@ -102,11 +102,6 @@
 	<style name="AccountSpinnerAnchorTextPrimary" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Title">
 		<item name="android:textColor">@color/holo_blue_dark</item>
 	</style>
-	<style name="RecipientEditTextViewStyle" parent="@style/RecipientEditTextView">
-        <item name="android:gravity">bottom</item>
-        <item name="android:minHeight">42.0dip</item>
-        <item name="android:maxLines">2</item>
-    </style>
 	<style name="AccountSpinnerDropdownTextPrimary">
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:textColor">@color/holo_blue_dark</item>
@@ -254,7 +249,6 @@
     </style>
     <style name="ShortcutWidgetTheme" parent="@*android:style/Theme.Holo.DialogWhenLarge" />
     <style name="ComposeFieldLayout" parent="@*android:style/Widget.Holo.EditText">
-        <item name="android:textColor">#ff666666</item>
         <item name="android:orientation">horizontal</item>
         <item name="android:focusable">false</item>
         <item name="android:focusableInTouchMode">false</item>

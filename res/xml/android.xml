@@ -1192,4 +1192,5 @@
     <item name="style/TextAppearance.Widget.DropDownItem">@style/TextAppearance.Widget.DropDownItem</item>
     <item name="style/Theme.Holo.Light.Dialog">@style/Theme.Holo.Light.Dialog</item>
     <item name="style/Widget.CompoundButton">@style/Widget.CompoundButton</item>
+	<item name="style/Theme.Holo.Light">@style//Theme.Holo.Light</item>
 </resource-redirections>
