@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="color/accountInfoColor">@color/white</item>
+	<item name="color/accountInfoColor">@color/holo_blue_bright</item>
 	<item name="color/actionbar_secondary">#ffFF0000</item>
 	<item name="color/animating_item_background_color">#7f0099cc</item>
 	<item name="color/attachment_bg_color">#ff000000</item>
@@ -52,10 +52,10 @@
 	<item name="color/swiped_bg_color">#ff999999</item>
 	<item name="color/text_color_primary_invertible">@color/text_color_primary_invertible</item>
 	<item name="color/text_color_unread_invertible">@color/text_color_unread_invertible</item>
-	<item name="color/unread_conversation_subject_text">@color/white</item>
+	<item name="color/unread_conversation_subject_text">@color/holo_blue_bright</item>
 	<item name="color/white">#ffffffff</item>
 	<item name="color/widget_account_color">@color/holo_blue_bright</item>
-	<item name="color/widget_unread_count_color">@color/white</item>
+	<item name="color/widget_unread_count_color">@color/holo_blue_bright</item>
 	<item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>	<item name="drawable/actionbar_translucent">@drawable/com_google_android_gm_actionbar_translucent</item>
 	<item name="drawable/attachment_bg_holo">@drawable/com_google_android_gm_attachment_bg_holo</item>
 	<item name="drawable/banner_background_search">@drawable/com_google_android_gm_banner_background_search</item>
@@ -185,7 +185,6 @@
 	<item name="style/AccountSpinnerDropdownTextPrimary">@style/AccountSpinnerDropdownTextPrimary</item>
 	<item name="style/AccountSpinnerDropdownTextSecondary">@style/AccountSpinnerDropdownTextSecondary</item>
 	<item name="style/ComposeFieldLinearLayout">@style/ComposeFieldLinearLayout</item>
-	<item name="style/ComposeTheme">@style/ComposeTheme</item>
 	<item name="style/LightNoTitleBarTheme">@style/LightNoTitleBarTheme</item>
 	<item name="style/ShortcutWidgetTheme">@style/ShortcutWidgetTheme</item>
 	<item name="style/WidgetSubtitle">@style/WidgetSubtitle</item>
