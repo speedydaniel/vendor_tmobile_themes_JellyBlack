@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="keyguard_avatar_frame_pressed_color">@color/holo_blue_light</color>
+	<color name="semi_black">#7f000000</color>
+	<color name="keyguard_avatar_frame_pressed_color">@color/holo_blue_light</color>
 	<color name="action_bar_selected_bg">#7affffff</color>
 	<color name="keyHintLetterColor">#ffffffff</color>
 	<color name="holo_blue_light">#ff969696</color>
