@@ -73,14 +73,14 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
 	<style name="Theme.Holo.Light" parent="@*android:style/Theme.Holo">
-        <item name="android:textColorPrimary">@color/holo_blue_dark</item>
+        <item name="android:textColorPrimary">@color/darker_gray</item>
         <item name="android:textColorSecondary">@color/con_call_log_voicemail_status_text_color</item>
         <item name="android:textColorPrimaryInverse">@color/white</item>
         <item name="android:textColorSecondaryInverse">@color/com_android_mms_popup_line</item>
         <item name="android:popupWindowStyle">@*android:style/Widget.Holo.PopupWindow</item>
         <item name="android:textColor">@color/com_android_mms_popup_line</item>
         <item name="android:popupMenuStyle">@*android:style/Widget.Holo.PopupMenu</item>
-        <item name="android:editTextColor">@color/holo_blue_dark</item>
+        <item name="android:editTextColor">@color/darker_gray</item>
         <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
         <item name="android:widgetCategory">home_screen|keyguard</item>
     </style>
@@ -88,7 +88,7 @@
         <item name="android:textAppearance">@*android:style/TextAppearance.Holo</item>
         <item name="android:textAppearanceInverse">@*android:style/TextAppearance.Holo.Inverse</item>
         <item name="android:textColorPrimary">@color/holo_blue_light</item>
-        <item name="android:textColorSecondary">@color/holo_blue_dark</item>
+        <item name="android:textColorSecondary">@color/darker_gray</item>
         <item name="android:editTextColor">@color/holo_blue_light</item>
         <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
     </style>
@@ -97,20 +97,20 @@
         <item name="android:actionMenuTextColor">?android:textColorPrimary</item>
     </style>
     <style name="Widget.CompoundButton" parent="@*android:style/Widget.CompoundButton">
-        <item name="android:textColor">@color/holo_blue_dark</item>
+        <item name="android:textColor">@color/darker_gray</item>
     </style>
 	<style name="AccountSpinnerAnchorTextPrimary" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Title">
-		<item name="android:textColor">@color/holo_blue_dark</item>
+		<item name="android:textColor">@color/darker_gray</item>
 	</style>
 	<style name="AccountSpinnerDropdownTextPrimary">
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
-        <item name="android:textColor">@color/holo_blue_dark</item>
+        <item name="android:textColor">@color/darker_gray</item>
     </style>
     <style name="AccountSpinnerAnchorTextSecondary" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
-		<item name="android:textColor">@color/holo_blue_dark</item>
+		<item name="android:textColor">@color/darker_gray</item>
 	</style>
     <style name="TextAppearance.Widget.DropDownHint" parent="@*android:style/TextAppearance.Widget">
-        <item name="android:textColor">@color/holo_blue_dark</item>
+        <item name="android:textColor">@color/darker_gray</item>
     </style>
     <style name="TextAppearance.Widget.DropDownItem" parent="@*android:style/TextAppearance.Widget">
         <item name="android:textColor">@color/holo_blue_light</item>

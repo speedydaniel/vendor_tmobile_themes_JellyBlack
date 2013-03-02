@@ -105,7 +105,7 @@
     <item name="color/detail_update_tab_text_color">@color/con_detail_update_tab_text_color</item>
     <item name="color/dialpad_switch_bg">@color/con_dialpad_switch_bg</item>
     <item name="color/dialtacts_secondary_text_color">@color/con_dialtacts_secondary_text_color</item>
-    <item name="color/item_selected">@color/holo_blue_dark</item>
+    <item name="color/item_selected">@color/darker_gray</item>
     <item name="color/people_app_theme_color">@color/people_app_theme_color</item>
     <item name="color/people_contact_tile_status_color">@color/con_people_contact_tile_status_color</item>
     <item name="color/photo_backdrop">@color/con_photo_backdrop</item>

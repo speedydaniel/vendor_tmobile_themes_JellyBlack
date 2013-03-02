@@ -4,7 +4,7 @@
     <item name="style/Theme.TextView.Small.White">@style/com_skype_raider_Theme.TextView.Small.White</item>
     <item name="color/chat_dialog_main_background">@color/black</item>
     <item name="color/chat_dialog_main_background">@color/blue</item>
-    <item name="color/dark_blue">@color/holo_blue_dark</item>
+    <item name="color/dark_blue">@color/darker_gray</item>
     <item name="color/light_blue">@color/gray</item>
     <item name="color/light_blue2">@color/verylightgray</item>
     <item name="color/main_dark_color">@color/gray</item>
