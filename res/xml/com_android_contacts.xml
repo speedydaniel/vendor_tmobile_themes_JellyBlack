@@ -46,7 +46,7 @@
 	<item name="drawable/ic_contact_picture_holo_dark">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
 	<item name="drawable/ic_contact_picture_holo_light">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
 	<item name="drawable/background_dial_holo_dark">@drawable/com_android_contacts_background_dial_holo_dark</item>
-	<item name="drawable/list_activated_holo">@drawable/com_android_contacts_list_activated_holo</item>
+	<item name="drawable/list_activated_holo">@drawable/framework_res_list_activated_holo</item>
 	<item name="drawable/dialpad_background">@drawable/com_android_contacts_dialpad_background</item>
 	<item name="drawable/gray_action_bar_background">@drawable/com_android_contacts_gray_action_bar_background</item>
 	<item name="drawable/group_list_item_background">@drawable/com_android_contacts_group_list_item_background</item>

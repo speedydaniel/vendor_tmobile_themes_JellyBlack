@@ -155,7 +155,7 @@
 	<item name="drawable/ic_spam_normal_holo_light">@drawable/com_google_android_gm_ic_spam_normal_holo_light</item>
 	<item name="drawable/ic_view_photosphere">@drawable/com_google_android_gm_ic_view_photosphere</item>
 	<item name="drawable/label_bg_holo_light">@drawable/com_google_android_gm_label_bg_holo_light</item>
-	<item name="drawable/list_activated_holo">@drawable/com_google_android_gm_list_activated_holo</item>
+	<item name="drawable/list_activated_holo">@drawable/framework_res_list_activated_holo</item>
 	<item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/com_google_android_gm_list_div_top_btm_gmail_widget_holo</item>
 	<item name="drawable/list_div_top_btm_widget_holo">@drawable/com_google_android_gm_list_div_top_btm_widget_holo</item>
 	<item name="drawable/list_focused_holo">@drawable/com_google_android_gm_list_focused_holo</item>

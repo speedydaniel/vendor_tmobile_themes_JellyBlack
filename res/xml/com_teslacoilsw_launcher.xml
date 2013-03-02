@@ -53,7 +53,7 @@
 	<item name="drawable/tab_unselected_holo">@drawable/framework_res_tab_unselected_holo</item>
 	<item name="drawable/tab_unselected_pressed_focused_holo">@drawable/framework_res_tab_unselected_pressed_focused_holo</item>
 	<item name="drawable/tab_unselected_pressed_holo">@drawable/framework_res_tab_unselected_pressed_holo</item>
-	<item name="drawable/widget_resize_frame_holo">@drawable/com_teslacoilsw_launcher_widget_resize_frame_holo</item>
+	<item name="drawable/widget_resize_frame_holo">@drawable/com_android_launcher_widget_resize_frame_holo</item>
 	<item name="drawable/widget_resize_handle_bottom">@drawable/com_teslacoilsw_launcher_widget_resize_handle_bottom</item>
 	<item name="drawable/widget_resize_handle_left">@drawable/com_teslacoilsw_launcher_widget_resize_handle_left</item>
 	<item name="drawable/widget_resize_handle_right">@drawable/com_teslacoilsw_launcher_widget_resize_handle_right</item>
