@@ -2,6 +2,6 @@
 <selector
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/framework_res_list_activated_holo" android:state_activated="true" />
-    <item android:state_pressed="true" android:drawable="@drawable/framework_res_list_pressed_holo" />
+    <item android:state_pressed="true" android:drawable="@drawable/com_android_contacts_list_pressed_holo" />
     <item android:state_focused="true" android:drawable="@drawable/com_google_android_gm_list_focused_holo" />
 </selector>
