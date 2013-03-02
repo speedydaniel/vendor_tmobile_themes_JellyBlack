@@ -156,7 +156,6 @@
 	<color name="com_android_mms_darkgray_backgrounds">#ff000000</color>
 	<color name="com_android_mms_dividers">#ff000000</color>
 	<color name="com_android_mms_transparent">#00000000</color>
-	<color name="com_android_mms_popup_text">#ffffffff</color>
 	<color name="com_android_mms_popup_bottom_text">#ffffffff</color>
 	<color name="com_android_mms_popup_line">#ffaaaaaa</color>
 	<color name="com_android_mms_popup_background">#ff000000</color>
