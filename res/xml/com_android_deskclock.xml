@@ -46,7 +46,7 @@
 	<item name="drawable/ic_start_normal">@drawable/com_android_deskclock_ic_start_normal</item>
 	<item name="drawable/ic_stop_normal">@drawable/com_android_deskclock_ic_stop_normal</item>
 	<item name="drawable/ic_tab_clock">@drawable/com_android_deskclock_ic_tab_clock</item>
-	<item name="drawable/ic_tab_clock_activated">@drawable/com_android_deskclock_ic_tab_clock_activated</item>
+	<item name="drawable/ic_tab_clock_activated">@drawable/com_android_deskclock_ic_tab_clock</item>
 	<item name="drawable/ic_tab_clock_normal">@drawable/com_android_deskclock_ic_tab_clock_normal</item>
 	<item name="drawable/ic_tab_stopwatch">@drawable/com_android_deskclock_ic_tab_stopwatch</item>
 	<item name="drawable/ic_tab_stopwatch_activated">@drawable/com_android_deskclock_ic_tab_stopwatch_activated</item>

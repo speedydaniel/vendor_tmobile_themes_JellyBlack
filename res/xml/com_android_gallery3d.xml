@@ -14,11 +14,11 @@
 	<item name="drawable/overscroll_edge">@drawable/com_android_gallery3d_overscroll_edge</item>
 	<item name="drawable/overscroll_glow">@drawable/com_android_gallery3d_overscroll_glow</item>
 	<item name="drawable/panel_undo_holo">@drawable/com_android_gallery3d_panel_undo_holo</item>
-	<item name="drawable/photoeditor_tab_selected_focused_holo">@drawable/com_android_contacts_photoeditor_tab_selected_focused_holo</item>
-	<item name="drawable/photoeditor_tab_selected_holo">@drawable/com_android_contacts_photoeditor_tab_selected_holo</item>
-	<item name="drawable/photoeditor_tab_selected_pressed_holo">@drawable/com_android_contacts_photoeditor_tab_selected_pressed_holo</item>
-	<item name="drawable/photoeditor_tab_unselected_focused_holo">@drawable/com_android_contacts_photoeditor_tab_unselected_focused_holo</item>
-	<item name="drawable/photoeditor_tab_unselected_pressed_holo">@drawable/com_android_contacts_photoeditor_tab_unselected_pressed_holo</item>
+	<item name="drawable/photoeditor_tab_selected_focused_holo">@drawable/framework_res_tab_selected_focused_holo</item>
+	<item name="drawable/photoeditor_tab_selected_holo">@drawable/framework_res_tab_selected_holo</item>
+	<item name="drawable/photoeditor_tab_selected_pressed_holo">@drawable/framework_res_tab_selected_pressed_holo</item>
+	<item name="drawable/photoeditor_tab_unselected_focused_holo">@drawable/framework_res_tab_unselected_focused_holo</item>
+	<item name="drawable/photoeditor_tab_unselected_pressed_holo">@drawable/framework_res_tab_unselected_pressed_holo</item>
 	<item name="drawable/placeholder_camera">@drawable/com_android_gallery3d_placeholder_camera</item>
 	<item name="drawable/placeholder_empty">@drawable/com_android_gallery3d_placeholder_empty</item>
 	<item name="drawable/placeholder_locked">@drawable/com_android_gallery3d_placeholder_locked</item>
@@ -43,7 +43,7 @@
 	<item name="drawable/btn_shutter_video_default">@drawable/com_android_camera_btn_shutter_video_default</item>
 	<item name="drawable/btn_shutter_video_pressed">@drawable/com_android_camera_btn_shutter_video_pressed</item>
 	<item name="drawable/btn_shutter_video_recording">@drawable/com_android_camera_btn_shutter_video_recording</item>
-		<item name="drawable/bg_camera_pattern">@drawable/com_android_camera_bg_camera_pattern</item>
+	<item name="drawable/bg_camera_pattern">@drawable/com_android_camera_bg_camera_pattern</item>
 	<item name="drawable/bg_switcher">@drawable/com_android_camera_bg_switcher</item>
 	<item name="drawable/btn_camera_shutter_holo">@drawable/com_android_camera_btn_camera_shutter_holo</item>
 	<item name="drawable/btn_camera_shutter_pressed_holo">@drawable/com_android_camera_btn_camera_shutter_pressed_holo</item>

@@ -56,6 +56,6 @@
 	<item name="drawable/ic_windows_holo_dark">@drawable/com_android_browser_ic_windows_holo_dark</item>
 	<item name="drawable/progress">@drawable/com_android_browser_progress</item>
 	<item name="drawable/qc_background_normal">@drawable/com_android_browser_qc_background_normal</item>
-	<item name="drawable/textfield_active_holo_dark">@drawable/com_android_browser_textfield_active_holo_dark</item>
+	<item name="drawable/textfield_active_holo_dark">@drawable/framework_res_textfield_activated_holo_dark</item>
 	<item name="drawable/thumb_bookmark_widget_folder_back_holo">@drawable/com_android_browser_thumb_bookmark_widget_folder_back_holo</item>
 	<item name="drawable/thumb_bookmark_widget_folder_holo">@drawable/com_android_browser_thumb_bookmark_widget_folder_holo</item></resource-redirections>
