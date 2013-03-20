@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- files -->
+	<item name="drawable/ic_qs_quiet_hours_off">@drawable/ic_qs_quiet_hours_off</item>
+	<item name="drawable/ic_qs_quiet_hours_on">@drawable/ic_qs_quiet_hours_on</item>
+	<item name="drawable/ic_qs_sound_vibrate">@drawable/ic_qs_sound_vibrate</item>
+	<item name="drawable/ic_qs_sound_sound">@drawable/ic_qs_sound_sound</item>
+	<item name="drawable/ic_qs_sound_silent">@drawable/ic_qs_sound_silent</item>
 	<item name="drawable/arrow_dashed">@drawable/com_android_systemui_arrow_dashed</item>
 	<item name="drawable/btn_default_small_normal">@drawable/com_android_systemui_btn_default_small_normal</item>
 	<item name="drawable/btn_default_small_normal_disable">@drawable/com_android_systemui_btn_default_small_normal_disable</item>
