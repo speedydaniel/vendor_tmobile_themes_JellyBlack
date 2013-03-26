@@ -14,7 +14,6 @@
 	<item name="drawable/album_frame_small_pressed">@drawable/com_google_android_music_album_frame_small_pressed</item>
 	<item name="drawable/album_frame_small_selected">@drawable/com_google_android_music_album_frame_small_selected</item>
 	<item name="drawable/appwidget_bg">@drawable/com_google_android_apps_genie_geniewidget_widget_bg</item>
-	<item name="drawable/appwidget_bg">@drawable/com_google_android_music_appwidget_bg</item>
 	<item name="drawable/appwidget_inner_focus_c">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_c_holo</item>
 	<item name="drawable/appwidget_inner_focus_l">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_l_holo</item>
 	<item name="drawable/appwidget_inner_focus_r">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_r_holo</item>

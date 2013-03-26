@@ -127,7 +127,7 @@
 	<color name="con_photo_backdrop">@color/theme_primary</color>
 	<color name="con_photo_container">@color/theme_secondary_disabled</color>
 	<color name="con_social_widget_bg">@color/theme_primary_trans</color>
-	<color name="con_contact_detail_fragment">@color/theme_primary_trans</color>
+	<color name="con_contact_detail_fragment">@color/theme_primary</color>
 	
 	<color name="theme_primary">#ff000000</color>
 	<color name="theme_secondary">#ffffffff</color>
