@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/search_bg_panel">@drawable/com_anddoes_launcher_search_bg_panel</item>
+	<item name="drawable/hotseat_bg_panel">@drawable/com_anddoes_launcher_hotseat_bg_panel</item>
+	<item name="drawable/hotseat_track_holo">@drawable/com_anddoes_launcher_hotseat_track_holo</item>
 	<item name="drawable/default_widget_preview_holo">@drawable/com_anddoes_launcher_default_widget_preview_holo</item>
 	<item name="drawable/focused_bg">@drawable/com_anddoes_launcher_focused_bg</item>
 	<item name="drawable/gardening_crosshairs">@drawable/com_anddoes_launcher_gardening_crosshairs</item>
