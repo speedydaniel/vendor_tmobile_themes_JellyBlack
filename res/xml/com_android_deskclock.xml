@@ -63,6 +63,11 @@
 	<item name="color/blackish">@color/blackish</item>
 	<item name="color/blackish_trans">@color/blackish_trans</item>
 	<!-- drawables -->
+	<item name="drawable/footer_bg">@drawable/footer_bg</item>
+	<item name="drawable/clock_selector">@drawable/clock_selector</item>
+	<item name="drawable/header_bg">@drawable/header_bg</item>
+	<item name="drawable/header_bg_bar">@drawable/header_bg_bar</item>
+
 	<item name="drawable/holo_selector_nonfocusable">@drawable/holo_selector_nonfocusable</item>
 	<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
