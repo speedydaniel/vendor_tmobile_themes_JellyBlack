@@ -70,7 +70,7 @@
 	<color name="transparent">#00000000</color>
 	<color name="black">#ff000000</color>
 	<!-- clock -->
-	<color name="alarm_selected_color">#ffffffff</color>
+	<color name="alarm_selected_color">#5affffff</color>
 	<color name="blackish">#ff000000</color>
 	<color name="blackish_trans">#ff000000</color>
 	<!-- browser -->
