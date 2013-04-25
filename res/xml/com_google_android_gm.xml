@@ -57,7 +57,6 @@
 	<item name="color/white">#ffffffff</item>
 	<item name="color/widget_account_color">@color/holo_blue_bright</item>
 	<item name="color/widget_unread_count_color">@color/holo_blue_bright</item>
-	<item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>
 	<item name="drawable/actionbar_translucent">@drawable/com_google_android_gm_actionbar_translucent</item>
 	<item name="drawable/attachment_bg_holo">@drawable/com_google_android_gm_attachment_bg_holo</item>
 	<item name="drawable/banner_background_search">@drawable/com_google_android_gm_banner_background_search</item>

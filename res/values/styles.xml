@@ -431,4 +431,61 @@
     <style name="CalendarActionBarStyle" parent="@*android:style/Widget.Holo.ActionBar.Solid">
         <item name="android:displayOptions">showCustom</item>
     </style>
+	<!-- vending -->
+	<style name="FinskyTheme" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:actionBarStyle">@style/FinskyActionBarStyle</item>
+        <item name="android:actionMenuTextColor">@color/theme_secondary_offwte</item>
+    </style>
+    <style name="FinskyActionBarStyle" parent="@*android:style/TextAppearance.Large">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/com_android_vending_bkgd_tile_black</item>
+        <item name="android:titleTextStyle">@style/FinskyActionBarTitleTextStyle</item>
+    </style>
+	<style name="SettingsTheme" parent="@*android:style/Theme.Holo" />
+    <style name="FinskyActionBarTitleTextStyle" parent="@*android:style/TextAppearance.Large">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="com_android_vending_PlayRatingBarSmall">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="com_android_vending_FinskyTheme" parent="@*android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:ratingBarStyleSmall">@style/com_android_vending_PlayRatingBarSmall</item>
+        <item name="finskyButtonBarStyle">@style/com_android_vending_ButtonBarDefaultStyle</item>
+    </style>
+    <style name="com_android_vending_InstrumentTheme" parent="@*android:style/Theme.Black.NoTitleBar" />
+    <style name="com_android_vending_ButtonBarDefaultStyle" parent="@*android:style/ButtonBar">
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">2.0dip</item>
+    </style>
+    <style name="com_android_vending_common.Activity.Light" parent="@*android:style/Theme.Black">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+    <style name="com_android_vending_common.Activity.Light.Dialog" parent="@*android:style/Theme.Black">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+    <style name="com_android_vending_common.Activity.Light.Suggest" parent="@style/com_android_vending_common.Activity.Light.Dialog">
+        <item name="android:windowTitleSize">50.0dip</item>
+    </style>
+    <style name="com_android_vending_FinskyLightDialogTheme" parent="@*android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@drawable/com_android_vending_dialog_full_holo_light</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">stateUnchanged|adjustResize</item>
+        <item name="finskyButtonBarStyle">@style/com_android_vending_ButtonBarDefaultStyle</item>
+    </style>
 </resources>

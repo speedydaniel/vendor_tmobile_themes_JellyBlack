@@ -51,17 +51,11 @@
 	<item name="drawable/list_read_holo">@drawable/com_android_mms_list_read_holo</item>
 	<item name="drawable/list_selected_holo_light">@drawable/com_android_mms_list_selected_holo_light</item>
 	<item name="drawable/list_unread_holo">@drawable/com_android_mms_list_unread_holo</item>
-	<item name="drawable/stat_notify_sms_1">@drawable/com_android_mms_stat_notify_sms_1</item>
-	<item name="drawable/stat_notify_sms_2">@drawable/com_android_mms_stat_notify_sms_2</item>
-	<item name="drawable/stat_notify_sms_3">@drawable/com_android_mms_stat_notify_sms_3</item>
-	<item name="drawable/stat_notify_sms_4">@drawable/com_android_mms_stat_notify_sms_4</item>
-	<item name="drawable/stat_notify_sms_5">@drawable/com_android_mms_stat_notify_sms_5</item>
 	<item name="drawable/textfield_activated_holo_light">@drawable/com_android_mms_textfield_activated_holo_light</item>
 	<item name="drawable/textfield_focused_holo_light">@drawable/com_android_mms_textfield_focused_holo_light</item>
 	<item name="drawable/textfield_multiline_activated_holo_light">@drawable/com_android_mms_textfield_multiline_activated_holo_light</item>
 	<item name="drawable/textfield_multiline_focused_holo_light">@drawable/com_android_mms_textfield_multiline_focused_holo_light</item>
 	<item name="drawable/line_divider_arrow">@drawable/line_divider_arrow</item>
-	<item name="drawable/stat_notify_sms">@drawable/mms_motion_icon</item>
 	<item name="drawable/header_bg_mms_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
 <!-- mms styles -->
     <item name="style/MmsHoloTheme">@style/MmsHoloTheme</item>
