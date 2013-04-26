@@ -432,10 +432,24 @@
         <item name="android:displayOptions">showCustom</item>
     </style>
 	<!-- vending -->
-	<style name="FinskyTheme" parent="@*android:style/Theme.Holo">
-        <item name="android:windowBackground">@color/black</item>
-        <item name="android:actionBarStyle">@style/FinskyActionBarStyle</item>
-        <item name="android:actionMenuTextColor">@color/theme_secondary_offwte</item>
+    <style name="FinskyTheme" parent="@*android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/play_main_background</item>
+        <item name="android:ratingBarStyleSmall">@style/PlayRatingBarSmall</item>
+        <item name="finskyButtonBarStyle">@style/com_android_vending_ButtonBarDefaultStyle</item>
+        <item name="finskyButtonBarButtonStyle">?android:buttonStyle</item>
+    </style>
+	<style name="PlayRatingBarSmall">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:maxHeight">@dimen/rating_bar_small_height</item>
+        <item name="android:progressDrawable">@drawable/play_ratingbar_small</item>
+        <item name="android:minHeight">@dimen/rating_bar_small_height</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
     </style>
     <style name="FinskyActionBarStyle" parent="@*android:style/TextAppearance.Large">
         <item name="android:textSize">18.0sp</item>

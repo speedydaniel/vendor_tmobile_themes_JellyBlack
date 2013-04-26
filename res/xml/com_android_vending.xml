@@ -192,7 +192,7 @@
 	<item name="color/plus_audience_selection_item_background_normal">@color/plus_audience_selection_item_background_normal</item>
 	<item name="color/plus_audience_selection_item_background_hidden">@color/plus_audience_selection_item_background_hidden</item>
 	<!-- styles -->
-	<item name="style/FinskyTheme">@style/FinskyTheme</item>
+	<item name="style/FinskyTheme">@style/com_android_vending_FinskyTheme</item>
 	<item name="style/BaseText">@style/com_android_vending_BaseText</item>
 	<item name="style/DetailsPage_SummaryText">@style/com_android_vending_DetailsPage_SummaryText</item>
 	<item name="style/DetailsPage_FooterButton">@style/com_android_vending_DetailsPage_FooterButton</item>
