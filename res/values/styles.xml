@@ -102,9 +102,10 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="Theme.Holo.Light" parent="@*android:style/Theme.Holo.Light">
-        <item name="android:popupWindowStyle">@*android:style/Widget.Holo.PopupWindow</item>
-        <item name="android:popupMenuStyle">@*android:style/Widget.Holo.PopupMenu</item>
-        <item name="android:editTextColor">@color/link_text_light</item>
+        <item name="android:panelBackground">@drawable/framework_res_menu_hardkey_panel_holo_dark</item>
+        <item name="android:panelColorForeground">@color/white</item>
+        <item name="android:panelColorBackground">@color/black</item>
+        <item name="android:editTextColor">@color/gray</item>
         <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
     </style>
     <style name="Theme.Holo.Light.Dialog" parent="@*android:style/Theme.Holo.Dialog">
