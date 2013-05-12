@@ -410,11 +410,11 @@
     <style name="InAppWebViewTheme" parent="@*android:style/Theme.Holo" />
 	<style name="com_skype_raider_Theme.TextView.Small.White" parent="@style/com_skype_raider_Theme.TextView">
         <item name="android:textSize">15.0sp</item>
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
     </style>
     <style name="com_skype_raider_Theme.TextView" parent="@*android:style/Widget.TextView">
         <item name="android:textSize">15.0sp</item>
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
     </style>
 	<!-- calendar styles -->
 	<style name="EditEvent_Layout" parent="@*android:style/Theme.Holo" />
