@@ -19,8 +19,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"  
     package="com.TUN_SD.theme.JellyBlack"
-    android:versionCode="21"
-    android:versionName="4.6.2"
+    android:versionCode="22"
+    android:versionName="4.6.3"
     android:hasCode="false" >
 
 <uses-sdk
