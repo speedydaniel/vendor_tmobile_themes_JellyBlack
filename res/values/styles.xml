@@ -361,18 +361,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:minHeight">48.0dip</item>
     </style>
-	<style name="small_bold">
-        <item name="android:textSize">@dimen/small_font_size</item>
-        <item name="android:fontFamily">sans-serif-thin</item>
-    </style>
-    <style name="medium_bold">
-        <item name="android:textSize">@dimen/medium_font_size</item>
-        <item name="android:fontFamily">sans-serif-thin</item>
-    </style>
-	<style name="big_bold">
-        <item name="android:textSize">@dimen/big_font_size</item>
-        <item name="android:fontFamily">sans-serif-thin</item>
-    </style>
+	
     <style name="deleteThreadTextAppearance" parent="@*android:attr/textAppearanceMedium">
         <item name="android:textSize">18.0dip</item>
         <item name="android:textColor">#ffffffff</item>
