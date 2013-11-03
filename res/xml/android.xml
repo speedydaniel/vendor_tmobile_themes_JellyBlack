@@ -77,7 +77,6 @@
 	<item name="drawable/list_selector_holo_dark">@drawable/list_selector_holo_dark</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
-	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
 	<item name="drawable/notification_template_icon_bg">@color/transparent</item>
 	<item name="drawable/progress_horizontal_holo_dark">@drawable/framework_res_progress_horizontal_holo_dark</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/framework_res_progress_horizontal_holo_light</item>
@@ -87,6 +86,7 @@
 	<item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
 	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
 	<!-- framework pngs -->
+	<item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
 	<item name="drawable/ic_coins_s">@drawable/framework_res_ic_coins_s</item>
 	<item name="drawable/ic_lockscreen_alarm">@drawable/framework_res_ic_lockscreen_alarm</item>
 	<item name="drawable/ic_lockscreen_sim">@drawable/framework_res_ic_lockscreen_sim</item>
@@ -1188,6 +1188,7 @@
     <item name="drawable/weather_9">@drawable/framework_res_weather_9</item>
     <item name="drawable/weather_na">@drawable/framework_res_weather_na</item>
 	<!-- styles -->
+	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Holo.DialogWindowTitle">@style/TextAppearance.Holo.DialogWindowTitle</item>
     <item name="style/TextAppearance.Holo.Light.Widget.DropDownHint">@style/TextAppearance.Holo.Widget.DropDownHint</item>
     <item name="style/TextAppearance.Holo.Light.Widget.DropDownItem">@style/TextAppearance.Holo.Widget.DropDownItem</item>

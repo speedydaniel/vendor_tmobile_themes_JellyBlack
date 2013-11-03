@@ -34,4 +34,5 @@
 	<item name="drawable/dotted_line_480px">@drawable/com_android_settings_dotted_line_480px</item>
 	<item name="drawable/ic_default_user">@drawable/com_android_settings_ic_default_user</item>
 	<item name="drawable/preview">@drawable/com_android_settings_preview</item>
+    <item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
 </resource-redirections>

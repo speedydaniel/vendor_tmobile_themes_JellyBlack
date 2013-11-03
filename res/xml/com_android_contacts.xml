@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/quickcontact_track_background">@drawable/com_android_contacts_quickcontact_track_background</item>
+	<item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
+    <item name="drawable/quickcontact_track_background">@drawable/com_android_contacts_quickcontact_track_background</item>
 	<item name="drawable/gray_action_bar_background">@drawable/com_android_contacts_gray_action_bar_background</item>
 	<item name="drawable/group_list_item_background">@drawable/com_android_contacts_group_list_item_background</item>
 	<item name="drawable/dialpad_background">@drawable/com_android_contacts_dialpad_background</item>
