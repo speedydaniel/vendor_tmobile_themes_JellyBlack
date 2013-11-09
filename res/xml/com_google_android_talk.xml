@@ -22,7 +22,7 @@
 	<item name="color/status">@color/holo_blue_light</item>
 	<item name="color/video_panel_dropdown_bg_holo_dark">@drawable/com_android_calendar_list_multi_left_pressed_holo</item>
 	<item name="color/video_panel_dropdown_title_bg_holo_dark">@drawable/framework_res_keyboard_background</item>
-	<item name="drawable/bg_frame_sm01">@drawable/background_holo_dark</item>
+	<item name="drawable/bg_frame_sm01">@drawable/framework_res_background_holo_dark</item>
 	<item name="drawable/ic_audio_default_holo_dark">@drawable/framework_res_ic_voice_search</item>
 	<item name="drawable/ic_audio_default_holo_light">@drawable/framework_res_ic_voice_search</item>
 	<item name="drawable/ic_contact_picture">@drawable/com_android_contacts_ic_contact_picture_180_holo_light</item>
