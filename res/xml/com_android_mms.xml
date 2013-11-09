@@ -16,7 +16,7 @@
  -->
 
 <resource-redirections>
-	<item name="drawable/chip_background">@drawable/com_google_android_gm_chip_background</item>
+	<item name="drawable/chip_background">@drawable/chip_background</item>
 	<item name="drawable/listitem_background">@drawable/com_android_mms_listitem_background</item>
 	<item name="drawable/list_item_font_primary">@drawable/com_android_mms_list_item_font_primary</item>
 	<item name="drawable/list_item_font_secondary">@drawable/com_android_mms_list_item_font_secondary</item>
@@ -57,7 +57,7 @@
 	<item name="drawable/textfield_multiline_activated_holo_light">@drawable/com_android_mms_textfield_multiline_activated_holo_light</item>
 	<item name="drawable/textfield_multiline_focused_holo_light">@drawable/com_android_mms_textfield_multiline_focused_holo_light</item>
 	<item name="drawable/line_divider_arrow">@drawable/line_divider_arrow</item>
-	<item name="drawable/header_bg_mms_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
+	<item name="drawable/header_bg_mms_widget_holo">@drawable/widget_holo</item>
 <!-- mms styles -->
     <item name="style/MmsHoloTheme">@style/MmsHoloTheme</item>
     <item name="style/WidgetTitle">@style/com_android_mms_WidgetTitle</item>
