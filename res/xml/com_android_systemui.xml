@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- files -->
+	<item name="drawable/ic_qs_adb_off">@drawable/com_android_systemui_ic_qs_adb_off</item>
+	<item name="drawable/ic_qs_adb_on">@drawable/com_android_systemui_ic_qs_adb_on</item>
+	<item name="drawable/ic_qs_battery_bang_white">@drawable/com_android_systemui_ic_qs_battery_bang_white</item>
+	<item name="drawable/ic_qs_navbar_hide_off">@drawable/com_android_systemui_ic_qs_navbar_hide_off</item>
+	<item name="drawable/ic_qs_navbar_hide_on">@drawable/com_android_systemui_ic_qs_navbar_hide_on</item>
+	<item name="drawable/ic_qs_pie_off">@drawable/com_android_systemui_ic_qs_pie_off</item>
+	<item name="drawable/ic_qs_pie_on">@drawable/com_android_systemui_ic_qs_pie_on</item>
+	<item name="drawable/ic_qs_reboot">@drawable/com_android_systemui_ic_qs_reboot</item>
+	<item name="drawable/ic_qs_screenshot">@drawable/com_android_systemui_ic_qs_screenshot</item>
+	<item name="drawable/ic_qs_signal_full_hp">@drawable/com_android_systemui_ic_qs_signal_full_hp</item>
+	<item name="drawable/ic_qs_signal_hp">@drawable/com_android_systemui_ic_qs_signal_hp</item>
+	<item name="drawable/ic_qs_sound_off">@drawable/com_android_systemui_ic_qs_sound_off</item>
+	<item name="drawable/ic_qs_sound_on">@drawable/com_android_systemui_ic_qs_sound_on</item>
+	<item name="drawable/ic_qs_statusbar_off">@drawable/com_android_systemui_ic_qs_statusbar_off</item>
+	<item name="drawable/ic_qs_statusbar_on">@drawable/com_android_systemui_ic_qs_statusbar_on</item>
+	<item name="drawable/ic_qs_stayawake_off">@drawable/com_android_systemui_ic_qs_stayawake_off</item>
+	<item name="drawable/ic_qs_stayawake_on">@drawable/com_android_systemui_ic_qs_stayawake_on</item>
 	<item name="drawable/arrow_dashed">@drawable/com_android_systemui_arrow_dashed</item>
 	<item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
 	<item name="drawable/bottom_divider_glow">@drawable/com_android_systemui_bottom_divider_glow</item>
