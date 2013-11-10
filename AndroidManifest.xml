@@ -18,7 +18,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"  
-    package="com.TUN_SD.theme.JellyBlack"
+    package="com.TUN_SD.theme.JellyBlack.Peter"
     android:versionCode="24"
     android:versionName="4.8"
     android:hasCode="false" >
@@ -27,7 +27,7 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="18" />
 
-    <application name="JellyBlack" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlack">
+    <application name="JellyBlackPeter" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlackPeter">
     </application>
 
 
